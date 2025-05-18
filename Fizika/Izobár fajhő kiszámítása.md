@@ -21,4 +21,5 @@ $$
 c_p = \dfrac{R}{M} (\dfrac{f}{2} + 1) = \dfrac{f + 2}{2} \cdot \dfrac{R}{M}
 $$
 
-[[Adiabatikus állapotváltozás]]
+[[Izochor fajhő kiszámítása|← Előző]]
+[[Adiabatikus állapotváltozás|Következő →]]

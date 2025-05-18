@@ -15,4 +15,5 @@ $$
 c_V = \dfrac{f}{2} \cdot \dfrac{R}{M}
 $$
 
-[[Izobár fajhő kiszámítása]]
+[[A hőtan I. főtétele|← Előző]]
+[[Izobár fajhő kiszámítása|Következő →]]

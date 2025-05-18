@@ -20,9 +20,10 @@ F = p \cdot A
 $$
 A változó erő munkája az $F(s)$ grafikon alatti terület
 A térfogati (tágulási) munkát  minden állapotváltozásnál a $p(V)$ grafikon alatti terület adja meg
-A munkát a hiperbolikus trapéz területe adja meg
+A munkát a **hiperbolikus trapéz területe** adja meg
 $$
 W = n R T \ln(\dfrac{V_2}{V_1})
 $$
 
-[[A hőtan I. főtétele]]
+[[Hőmennyiség|← Előző]]
+[[A hőtan I. főtétele|Következő →]]

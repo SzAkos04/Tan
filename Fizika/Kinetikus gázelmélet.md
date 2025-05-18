@@ -1,5 +1,5 @@
-- A gázrészecskék parányi gömbök, melyek egymással, az edény falával rugalmasan ütköznek
-- Az ideális gázok más kölcsönhatásban nem vesznek részt
+- A gázrészecskék **parányi gömbök**, melyek **egymással és az edény falával rugalmasan ütköznek**
+- Az ideális gázok **más kölcsönhatásban nem vesznek részt**
 - A reális (valós) gázoknál a részecskék közötti kohéziós erő és a részecskék saját térfogata nem hanyagolható el
 
-[[Az ideális gázok belső energiája]]
+[[Az ideális gázok belső energiája|Következő →]]

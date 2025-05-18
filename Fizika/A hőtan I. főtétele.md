@@ -1,4 +1,4 @@
-A gáz belső energiájának megváltozása ($\Delta E_b$) egyenlő a gázzal közölt hő ($Q$) és a rajta végzett munka ($W$) összegével
+A gáz belső energiájának megváltozása ($\Delta E_b$) egyenlő a **gázzal közölt hő** ($Q$) és a rajta végzett **munka** ($W$) összegével
 $$
 \Delta E_b = Q + W
 $$
@@ -8,4 +8,5 @@ A gáz belső energiáját kétféleképpen lehet megváltoztatni:
 1. rendezetlen mód: **hőközléssel**
 2. rendezett mód: **munkavégzéssel**
 
-[[Izochor fajhő kiszámítása]]
+[[Térfogati munkavégzés|← Előző]]
+[[Izochor fajhő kiszámítása|Következő →]]

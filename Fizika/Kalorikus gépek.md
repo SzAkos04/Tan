@@ -7,19 +7,20 @@ $$
 $$
 
 #### Carnot-gép
-Elméleti hőerőgép, aminek a legjobb a hatásfoka
-2 izotermikus és 2 adiabatikus folyamatból áll
+Elméleti hőerőgép, aminek a **legjobb a hatásfoka**
+**2 izotermikus** és **2 adiabatikus** folyamatból áll
 
-$1 \to 2$: __izoterm tágulás__: hőfelvétel munkavégzés
-$2 \to 3$: __adiabatikus tágulás__: $Q_{2,3} = 0 \to$ a gáz munkát végez $\to$ $E_b$ csökken $\to$ gáz lehűl
-$3 \to 4$: __izoterm sűrítés__: a környezet munkát végez: $Q_{3,4} = Q_{le}$
-$4 \to 1$: __adiabatikus sűrítés__: a környezet munkát végez a gázon $\to$ gáz felmelegszik
+$1 \to 2$: __izoterm tágulás__: hőfelvétel *munkavégzés*
+$2 \to 3$: __adiabatikus tágulás__: $Q_{2,3} = 0 \to$ a gáz munkát végez $\to$ $E_b$ csökken $\to$ *gáz lehűl*
+$3 \to 4$: __izoterm sűrítés__: a *környezet munkát végez*: $Q_{3,4} = Q_{le}$
+$4 \to 1$: __adiabatikus sűrítés__: a környezet munkát végez a gázon $\to$ *gáz felmelegszik*
 
 ## Hűtőgépek
-Fordított hőerőgép: a hideg hőtartályból hőt von el, a melegebbnek hőt ad le úgy, hogy közben munkát kell befektetni: a kompresszort üzemeltetni kell: villamos energia
+Fordított hőerőgép: a **hideg hőtartályból hőt von el, a melegebbnek hőt ad le** úgy, hogy közben **munkát kell befektetni**: a kompresszort üzemeltetni kell: villamos energia
 $T_2 > T_1$
 
-A hűtőt/klímát nem a hatásfok hanem a jósági tényező jellemzi: értékét a két hőtartály hőmérséklete határozza meg
-A rendszerben lévő gázt a kompresszor összenyomja $\to$ a gáz lecsapódik, folyadék lesz belőle $\to$ a hűtőtérben elpárologva hőt von el abból $\to$ ismét a párolgás során gázzá válik $\to$ a felvett hőt a hűtőrácson (kívül) leadja $\to$ kezdődik előlről a folyamat
+A hűtőt/klímát nem a hatásfok hanem a **jósági tényező** jellemzi: értékét a két hőtartály hőmérséklete határozza meg
+A rendszerben lévő gázt a kompresszor összenyomja $\to$ a gáz lecsapódik, folyadék lesz belőle $\to$ a hűtőtérben elpárologva hőt von el abból $\to$ ismét a párolgás során gázzá válik $\to$ a felvett hőt a hűtőrácson (kívül) leadja $\to$ kezdődik elölről a folyamat
 
-[[A hőtan II. főtétele]]
+[[Körfolyamatok hatásfoka|← Előző]]
+[[A hőtan II. főtétele|Következő →]]

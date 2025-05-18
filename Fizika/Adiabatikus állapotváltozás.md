@@ -1,4 +1,4 @@
-Ha a gáz termikusan elszigetelt vagy olyan gyors a folyamat hogy nincs idő a gáz és környezete közti hőcserére
+Ha a gáz **termikusan elszigetelt** vagy olyan gyors a folyamat hogy **nincs idő a gáz és környezete közti hőcserére**
 
 A gáz tágulásához szükséges **munkát a gáz belső energiája fedezi** ezért hirtelen **lehűl** a gáz
 $$
@@ -14,4 +14,5 @@ $$
 
 Adiabatikus hiperbola: hatványhiperbola: meredekebb mint az izoterm
 
-[[Körfolyamatok hatásfoka]]
+[[Izobár fajhő kiszámítása|← Előző]]
+[[Körfolyamatok hatásfoka|Következő →]]
