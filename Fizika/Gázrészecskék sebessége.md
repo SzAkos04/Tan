@@ -1,0 +1,12 @@
+[[Az ideális gázok belső energiája#Ekvipartíció-tétel|Ekvipartíciós gázelmélet]] szerint a haladó mozgásra 3 [[Szabadsági fok|szabadsági fok]] jut 
+$E_m = \frac{1}{2} m_0 v^2 = \frac{3}{2} k T$
+
+$$
+\begin{cases}
+v = \sqrt{\dfrac{3 k T}{m_0}} \\[8pt]
+m_0 = \dfrac{M}{N_A}
+\end{cases}
+\quad \Rightarrow \quad v = \sqrt{\dfrac{3 R T}{M}}
+$$
+
+[[Belső energia változás]]
