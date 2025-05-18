@@ -11,7 +11,7 @@ T_1 < T_2 \quad \Rightarrow \quad T_1 < T_k < T_2
 $$
 
 ## 2.
-Nem létezik **másodfajú perpetuum mobile** (örökmozgó)
+Nem létezik **másodfajú perpetuum mobile**
 Nincs olyan hőerőgép ami egy hőtartályból hőt venne fel és azt teljes egészében mechanikai munkává tudná alakítani
-Nem létezik **elsőfajú perpetuum mobile**
+Nem létezik **elsőfajú perpetuum mobile** (örökmozgó)
 Az energiamegmaradás törvényét fejezi ki: nincs olyan eszköz, ami külső energia felvétele nélkül örökké mozogna
