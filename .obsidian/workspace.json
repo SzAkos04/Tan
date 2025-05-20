@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Biológia/Érzékelés/5. Hallás.md",
-                "mode": "preview",
+                "file": "Biológia/Érzékelés/6. Egyensúlyozó szerv.md",
+                "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "5. Hallás"
+              "title": "6. Egyensúlyozó szerv"
             }
           }
         ]
@@ -181,11 +181,13 @@
   },
   "active": "2bd2daac96865b6f",
   "lastOpenFiles": [
-    "Biológia/Érzékelés/4. Szaglás, ízlelés.md",
+    "Biológia/Érzékelés/7. Látás.md",
+    "Biológia/Érzékelés/6. Egyensúlyozó szerv.md",
     "Biológia/Érzékelés/5. Hallás.md",
+    "Biológia/Érzékelés/4. Szaglás, ízlelés.md",
     "Biológia/Érzékelés/3. Limbikus rendszer.md",
-    "Biológia/Érzékelés/1. Érzékelés.md",
     "Biológia/Érzékelés/2. Bőrérzékelés.md",
+    "Biológia/Érzékelés/1. Érzékelés.md",
     "Fizika/2. Az ideális gázok belső energiája.md",
     "Fizika/4. Belső energia változás.md",
     "Fizika/3. Gázrészecskék sebessége.md",
@@ -207,7 +209,6 @@
     "Fizika/Fajhő.md",
     "Szabadsági.md",
     "().md",
-    "Welcome.md",
     "Fizika"
   ]
 }
