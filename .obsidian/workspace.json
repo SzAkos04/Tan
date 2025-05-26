@@ -27,7 +27,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Kiegyezés.md",
+                "file": "Történelem/Kiegyezés.md",
                 "mode": "preview",
                 "source": false
               },
@@ -194,10 +194,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "90a56cf3e370f142",
+  "active": "2872af3a65a336f0",
   "lastOpenFiles": [
+    "Untitled",
     "Untitled.md",
-    "Kiegyezés.md",
+    "Történelem/Kiegyezés.md",
     "Biológia/Érzékelés/7. Látás.md",
     "Történelem",
     "Biológia/Érzékelés/6. Egyensúlyozó szerv.md",
@@ -239,7 +240,6 @@
     "Fizika/Szabadsági fok.md",
     "NULL.md",
     "Fizika/Fajhő.md",
-    "Szabadsági.md",
     "Fizika"
   ]
 }
