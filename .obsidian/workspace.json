@@ -14,14 +14,57 @@
               "type": "markdown",
               "state": {
                 "file": "Történelem/Kiegyezés.md",
-                "mode": "preview",
+                "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
               "title": "Kiegyezés"
             }
+          },
+          {
+            "id": "af133c237f3685a2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Angol/Speaking - Topics/1. Classic student house arguments.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "1. Classic student house arguments"
+            }
+          },
+          {
+            "id": "d090dc7c8817b4d4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Angol/Speaking - Topics/2. The best way to spot a liar.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "2. The best way to spot a liar"
+            }
+          },
+          {
+            "id": "f85aa6325613f814",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Angol/Speaking - Topics/6. The reality of sci-fi.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "6. The reality of sci-fi"
+            }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -109,13 +152,46 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Történelem/Kiegyezés.md",
+                "file": "Angol/Speaking - Topics/6. The reality of sci-fi.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Kiegyezés"
+              "title": "Outline of 6. The reality of sci-fi"
+            }
+          },
+          {
+            "id": "9d41fec148750ead",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Történelem/Kiegyezés.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Kiegyezés"
+            }
+          },
+          {
+            "id": "139a0837b976fb5f",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Történelem/Kiegyezés.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Kiegyezés"
             }
           }
         ],
@@ -149,17 +225,23 @@
       "daily-notes:Open today's daily note": true,
       "templates:Insert template": true,
       "command-palette:Open command palette": false,
-      "obsidian-git:Open Git source control": false,
-      "homepage:Open homepage": false
+      "obsidian-git:Open Git source control": false
     }
   },
-  "active": "5927e1f7f496c34b",
+  "active": "f85aa6325613f814",
   "lastOpenFiles": [
+    "Angol/Speaking - Topics/1. Classic student house arguments.md",
+    "Angol/Speaking - Topics/6. The reality of sci-fi.md",
+    "Angol/Speaking - Topics/5. What makes a city attractive.md",
+    "Angol/Speaking - Topics/3. A case of identity theft.md",
+    "Angol/Speaking - Topics/2. The best way to spot a liar.md",
+    "Angol/Speaking - Topics/4. 8 tips on how to spot fake news.md",
+    "Untitled",
     "Történelem/Kiegyezés.md",
+    "Angol/Speaking - Topics",
+    "Angol",
     "Untitled.canvas",
     "2025-05-26.md",
-    "Untitled",
-    "Untitled.md",
     "Biológia/Érzékelés/7. Látás.md",
     "Történelem",
     "Biológia/Érzékelés/6. Egyensúlyozó szerv.md",
@@ -193,12 +275,6 @@
     "Fizika/9. Izobár fajhő kiszámítása.md",
     "Fizika/8. Izochor fajhő kiszámítása.md",
     "Fizika/7. A hőtan I. főtétele.md",
-    "Biológia/Érzékelés",
-    "Fizika/13. A hőtan II. főtétele.md",
-    "Biológia",
-    "Fizika/6. Térfogati munkavégzés.md",
-    "Fizika/5. Hőmennyiség.md",
-    "Fizika/Szabadsági fok.md",
-    "NULL.md"
+    "Fizika/13. A hőtan II. főtétele.md"
   ]
 }
