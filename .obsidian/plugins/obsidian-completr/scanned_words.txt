@@ -71,6 +71,8 @@ rlap
 rz
 rj
 rta
+reference
+return
 One
 Officers
 Often
@@ -260,6 +262,10 @@ tmeneti
 terv
 ti
 tj
+title
+tp
+throw
+typeof
 biggest
 boyfriend
 bills
@@ -425,6 +431,8 @@ ssy
 saj
 skör
 solferin
+specifying
+string
 pay
 picked
 pile
@@ -518,6 +526,7 @@ megkoron
 magyar
 miniszt
 mszövets
+moment
 Names
 Nervousness
 New
@@ -558,6 +567,7 @@ illeti
 igazgat
 ir
 int
+isValid
 first
 for
 forgotten
@@ -595,6 +605,8 @@ függetlens
 feloszlatt
 felt
 fizetik
+file
+format
 Mess
 Mayer
 Most
@@ -604,6 +616,7 @@ Magyarorsz
 Magyar
 Moldva
 Monarchia
+MM
 kitchen
 know
 közölt
@@ -744,6 +757,8 @@ akarnak
 alatt
 akarja
 al
+argument
+add
 Rota
 Robert
 Relying
@@ -836,6 +851,9 @@ diploma
 diplom
 dualista
 deleg
+dt
+duration
+days
 Housemate
 Ha
 How
@@ -848,6 +866,7 @@ Horv
 Hat
 Habsburg
 Havasalföld
+Hello
 girlfriend
 going
 gets
@@ -1019,6 +1038,7 @@ Sz
 Schmerling
 Szerbia
 Sissy
+Sablon
 Joint
 Put
 Paris
@@ -1034,6 +1054,7 @@ Domodedovo
 De
 Dunai
 Duna
+DD
 your
 you
 yours
@@ -1115,6 +1136,9 @@ nyzat
 nyert
 nzügy
 ni
+now
+new
+number
 Food
 Fizika
 Find
@@ -1137,6 +1161,7 @@ Good
 Gyula
 You
 York
+YYYY
 összege
 összeg
 ön
@@ -1173,6 +1198,7 @@ It
 Is
 Instead
 Istv
+Invalid
 vel
 vagy
 visszat
