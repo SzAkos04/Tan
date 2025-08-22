@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Sablonok/Történelem Sablon.md",
-                "mode": "source",
+                "file": "Biológia/Érzékelés/07. Látás.md",
+                "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Történelem Sablon"
+              "title": "07. Látás"
             }
           }
         ]
@@ -109,13 +109,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Sablonok/Történelem Sablon.md",
+                "file": "Biológia/Érzékelés/07. Látás.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Történelem Sablon"
+              "title": "Outline of 07. Látás"
             }
           },
           {
@@ -189,32 +189,32 @@
   },
   "active": "2872af3a65a336f0",
   "lastOpenFiles": [
-    "Sablonok/Fizika Sablon.md",
-    "Sablonok/Történelem Sablon.md",
-    "hi.md",
-    "Fizika/13. A hőtan II. főtétele.md",
-    "Fizika.md",
-    "Hi.md",
-    "Hello.md",
-    "Hello wocrld.md",
-    "hello.md",
-    "oesunth.md",
-    "Történelem/Kiegyezés.md",
-    "Fizika/12. Kalorikus gépek.md",
-    "Sablonok/Fizika Sablo.md",
-    "Fizika/1. Kinetikus gázelmélet.md",
+    "Biológia/Érzékelés/06. Egyensúlyozó szerv.md",
+    "Biológia/Érzékelés/05. Hallás.md",
+    "Biológia/Érzékelés/04. Szaglás, ízlelés.md",
+    "Biológia/Érzékelés/03. Limbikus rendszer.md",
+    "Biológia/Érzékelés/02. Bőrérzékelés.md",
+    "Biológia/Érzékelés/01. Érzékelés.md",
+    "Angol/Speaking/Texts/09. How children learn language.md",
+    "Angol/Speaking/Texts/08. Childhood memories.md",
+    "Angol/Speaking/Texts/07. What's your personality.md",
+    "Angol/Speaking/Texts/06. The reality of sci-fi.md",
+    "Angol/Speaking/Texts/05. What makes a city attractive.md",
+    "Angol/Speaking/Texts/04. 8 tips on how to spot fake news.md",
+    "Angol/Speaking/Texts/03. A case of identity theft.md",
+    "Angol/Speaking/Texts/02. The best way to spot a liar.md",
+    "Angol/Speaking/Texts/01. Classic student house arguments.md",
+    "Angol/Speaking/Notes/09. How children learn language.md",
+    "Angol/Speaking/Notes/08. Childhood memories.md",
+    "Angol/Speaking/Notes/07. What's your personality.md",
+    "Angol/Speaking/Notes/06. The reality of sci-fi.md",
+    "Angol/Speaking/Notes/05. What makes a city attractive.md",
+    "Angol/Speaking/Notes/04. 8 tips on how to spot fake news.md",
+    "Angol/Speaking/Notes/03. A case of identity theft.md",
+    "Angol/Speaking/Notes/02. The best way to spot a liar.md",
+    "Angol/Speaking/Notes/01. Classic student house arguments.md",
     "Fizika/Szabadsági fok.md",
-    "Fizika/11. Körfolyamatok hatásfoka.md",
-    "Fizika/10. Adiabatikus állapotváltozás.md",
-    "Fizika/9. Izobár fajhő kiszámítása.md",
-    "Fizika/8. Izochor fajhő kiszámítása.md",
-    "Fizika/7. A hőtan I. főtétele.md",
-    "Fizika/6. Térfogati munkavégzés.md",
-    "Fizika/5. Hőmennyiség.md",
-    "Fizika/4. Belső energia változás.md",
-    "Fizika/3. Gázrészecskék sebessége.md",
-    "Fizika/2. Az ideális gázok belső energiája.md",
-    "Biológia/Érzékelés/7. Látás.md",
+    "Sablonok/Történelem Sablon.md",
     "Sablonok",
     "Templates",
     "Untitled.canvas",
