@@ -1,3 +1,8 @@
+---
+tags:
+  - Fizika
+---
+
 A szabadsági fok ($f$) megadja hogy a gázrészecske (atom/molekula) hány egymástól független mozgást végezhet
 
 | Gáztípus       | Szabadsági fok ($f$) |

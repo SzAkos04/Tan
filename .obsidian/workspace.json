@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "9b620c02b979fe93",
+        "id": "c1320b9881399c3b",
         "type": "tabs",
         "children": [
           {
-            "id": "1537a13fcc414244",
+            "id": "28c1678183cebb7a",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Angol/Speaking/Notes/4. 8 tips on how to spot fake news.md",
-                "mode": "preview",
+                "file": "Sablonok/Történelem Sablon.md",
+                "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "4. 8 tips on how to spot fake news"
+              "title": "Történelem Sablon"
             }
           }
         ]
@@ -109,13 +109,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Angol/Speaking/Notes/4. 8 tips on how to spot fake news.md",
+                "file": "Sablonok/Történelem Sablon.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of 4. 8 tips on how to spot fake news"
+              "title": "Outline of Történelem Sablon"
             }
           },
           {
@@ -183,47 +183,49 @@
       "daily-notes:Open today's daily note": true,
       "templates:Insert template": true,
       "command-palette:Open command palette": false,
-      "obsidian-git:Open Git source control": false
+      "obsidian-git:Open Git source control": false,
+      "templater-obsidian:Templater": false
     }
   },
-  "active": "1537a13fcc414244",
+  "active": "2872af3a65a336f0",
   "lastOpenFiles": [
+    "Sablonok/Fizika Sablon.md",
+    "Sablonok/Történelem Sablon.md",
+    "hi.md",
+    "Fizika/13. A hőtan II. főtétele.md",
+    "Fizika.md",
+    "Hi.md",
+    "Hello.md",
+    "Hello wocrld.md",
+    "hello.md",
+    "oesunth.md",
+    "Történelem/Kiegyezés.md",
+    "Fizika/12. Kalorikus gépek.md",
+    "Sablonok/Fizika Sablo.md",
+    "Fizika/1. Kinetikus gázelmélet.md",
+    "Fizika/Szabadsági fok.md",
+    "Fizika/11. Körfolyamatok hatásfoka.md",
+    "Fizika/10. Adiabatikus állapotváltozás.md",
+    "Fizika/9. Izobár fajhő kiszámítása.md",
+    "Fizika/8. Izochor fajhő kiszámítása.md",
+    "Fizika/7. A hőtan I. főtétele.md",
+    "Fizika/6. Térfogati munkavégzés.md",
+    "Fizika/5. Hőmennyiség.md",
+    "Fizika/4. Belső energia változás.md",
+    "Fizika/3. Gázrészecskék sebessége.md",
+    "Fizika/2. Az ideális gázok belső energiája.md",
+    "Biológia/Érzékelés/7. Látás.md",
+    "Sablonok",
+    "Templates",
     "Untitled.canvas",
-    "Angol/Speaking/Notes/4. 8 tips on how to spot fake news.md",
-    "Angol/Speaking/Notes/3. A case of identity theft.md",
-    "Angol/Speaking/Notes/2. The best way to spot a liar.md",
-    "Angol/Speaking/Notes/1. Classic student house arguments.md",
-    "Angol/Speaking/Notes/11. How being quiet can change your life.md",
-    "Angol/Speaking/Texts/11. How being quiet can change your life.md",
-    "Angol/Speaking/Notes/10. History brought to life.md",
-    "Angol/Speaking/Notes/12. 10 small ways to lead an anti-capitalist life.md",
-    "Angol/Speaking/Texts/10. History brought to life.md",
-    "Angol/Speaking/Notes/9. How children learn language.md",
-    "Angol/Speaking/Notes/8. Childhood memories.md",
-    "Angol/Speaking/Notes/6. The reality of sci-fi.md",
-    "Angol/Speaking/Notes/5. What makes a city attractive.md",
-    "Angol/Speaking/Texts/1. Classic student house arguments.md",
-    "Angol/Speaking/Notes/7. What's your personality.md",
-    "Angol/Speaking/Notes/15. In defence of not liking animals.md",
-    "Angol/Speaking/Notes/16. Battle of the workouts.md",
-    "Angol/Speaking/Texts/16. Battle of the workouts.md",
-    "Angol/Speaking/Notes/13. A beginner's guide to divorcing your phone.md",
-    "Angol/Speaking/Texts/13. A beginner's guide to divorcing your phone.md",
-    "Angol/Speaking/Texts/12. 10 small ways to lead an anti-capitalist life.md",
-    "Angol/Speaking/Texts/9. How children learn language.md",
-    "Angol/Speaking/Texts/8. Childhood memories.md",
-    "Angol/Speaking/Texts/6. The reality of sci-fi.md",
-    "Angol/Speaking/Texts/15. In defence of not liking animals.md",
     "Angol/Speaking/Notes",
     "Angol/Speaking/Texts",
     "Angol/Speaking",
-    "Untitled",
     "Angol/Speaking - Texts",
     "Angol",
     "Történelem",
     "Biológia/Érzékelés/1. Érzékelés.md~",
     "Biológia/Érzékelés/2. Bőrérzékelés.md~",
-    "Biológia/Érzékelés/4913",
     "Biológia/Érzékelés/img/egyensulyozas.jpeg",
     "Biológia/Érzékelés/img/hallas2.jpg",
     "Biológia/Érzékelés/img/hallas1.jpg",
