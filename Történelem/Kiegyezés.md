@@ -3,7 +3,10 @@ tags:
   - Történelem
 ---
 
+# Kiegyezés
+
 ## Haynau rémuralma (1849-50)
+
 - fél éven keresztül a kezébe adták a katonai sereg vezérlését
 - **október 6.**: kivégzések
 	- 13 aradi vértanú
@@ -13,6 +16,7 @@ tags:
 - **1850 elején** leváltják Haynaut
 
 ## Bach-rendszer (1850-59)
+
 - Felix von **Schwarzenberg** $\to$ centralisztikus, erős, központosított állam
 - **Windischgrätz** $\to$ föderatív (nincs erős központi hatalom) állam
 - Schwarzenberg elképzelése győz
@@ -39,17 +43,22 @@ tags:
 
 
 ## Kísérletek a rendszer átalakítására (1860–1866)
+
 ### Októberi diploma (1860)
+
 - '47-es állapotokat állította vissza
 - helytartótanács
 - kancellária
 ### Februári pátens (1861)
+
 - kiterjesztik az egész birodalomra az októberi diplomát
 ### Ein Blick
+
 - politikai röpirat (Habsburg ellenes), írója: Széchenyi István
 - az osztrák titkosszolgálat megfigyelés alatt tartotta
 - Nagycenken temették el
 ### Magyar országgyűlés (1861)
+
 - mindkét párt ellenzéki
 - **Határozati párt** - Teleki László $\to$ követelés
 - **Felirati párt** - Deák Ferenc $\to$ kérés
@@ -57,22 +66,27 @@ tags:
 - Teleki öngyilkos végszavazás előtti éjszaka
 - Felirati párt nyert $\Rightarrow$ megkérték az uralkodót, hogy engedje el az októberi diplomát $\to$ feloszlatták az országgyűlést
 ### Átmeneti időszak a megegyezésig
+
 - Schmerling-provizórium
 ### Dunai konföderációs terv
+
 - Duna-medencében lévő népek egy állammá egyesülnek (Magyarország, Erdély, Szerbia, Horvátország, Havasalföld, Moldva)
 - közös ügyek (hadügy, külügy) együttes intézése
 - változó főváros
 - **nem valósul meg** ez a terv
 ### Deák Ferenc: Húsvéti cikk (1865)
+
 - Pesti Hírlap
 - egység Magyarország és Ausztria között
 - közös ügyi elrendezkedés (önálló országok, közös ügyek: hadügy, külügy, ezekkel kapcsolatos pénzügy)
 - kevesen olvasták $\to$ nincs változás
 ### Königgratzi csata (1866)
+
 - osztrák vereség a poroszoktól $\to$ kimaradnak a német egységből $\to$ szükség a magyarok támogatására
 
 
 ## Kiegyezési törvény (1867)
+
 - megegyezés a Habsburg és Deákék között $\to$ feltétel: **Ferenc József megkoronázása** (1867. jún., Wittelsbach Sissy királyné)
 - **Andrássy Gyula**: első magyar kormány elnöke
 - új állam: **Osztrák Magyar Monarchia**
