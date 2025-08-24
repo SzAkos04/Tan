@@ -23,7 +23,7 @@ tags:
   Jack **offered** to drive me to the airport.
 - After specific reporting verbs, there are three different grammatical patterns (1-3 in the chart).
 - In negative sentences, we use the negative infinitive (not to do) or the negative gerund (not doing), e.g. He reminded me not to be late. She regretted not going to the party.
-- In group 3, we cane use a perfect gerund with very little difference in meaning, e.g. He admitted stealing the money. He admitted having stolen the money.
+- In group 3, we can use a perfect gerund with very little difference in meaning, e.g. He admitted stealing the money. He admitted having stolen the money.
 
 **Grammatical patterns after reporting verbs**
 
