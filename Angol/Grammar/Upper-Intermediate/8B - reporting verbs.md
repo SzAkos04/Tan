@@ -27,11 +27,11 @@ tags:
 
 **Grammatical patterns after reporting verbs**
 
-| #   | Pattern                    | Verbs                                                                                                 | Meaning/Notes      |
-| --- | -------------------------- | ----------------------------------------------------------------------------------------------------- | ------------------ |
-| 1   | + to + infinitive          | agree, offer, refuse, promise, threaten                                                               | (not) to do sth    |
-| 2   | + person + to + infinitive | advise, persuade, ask, remind, convince, tell, encourage, warn, invite                                | sb (not) to do sth |
-| 3   | + -ing form                | apologize (to sb) for, insist on, accuse sb of, recommend, admit, regret, blame sb for, suggest, deny | (not) doing sth    |
+| #   | Pattern                      | Verbs                                                                                                 | Meaning/Notes      |
+| --- | ---------------------------- | ----------------------------------------------------------------------------------------------------- | ------------------ |
+| 1   | + _to_ + infinitive          | agree, offer, refuse, promise, threaten                                                               | (not) to do sth    |
+| 2   | + person + _to_ + infinitive | advise, persuade, ask, remind, convince, tell, encourage, warn, invite                                | sb (not) to do sth |
+| 3   | + _-ing_ form                | apologize (to sb) for, insist on, accuse sb of, recommend, admit, regret, blame sb for, suggest, deny | (not) doing sth    |
 
 ### Verbs that use a _that_ clause
 

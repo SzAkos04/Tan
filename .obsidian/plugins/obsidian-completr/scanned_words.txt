@@ -265,6 +265,9 @@ hope
 high
 hate
 helped
+hit
+hitting
+hates
 convinced
 chooses
 cleaning
@@ -445,6 +448,10 @@ consider
 cannot
 cause
 castle
+caricature
+competition
+coughing
+completed
 they
 the
 to
@@ -589,6 +596,10 @@ took
 thousand
 ten
 teach
+tiny
+touch
+touching
+thanked
 biggest
 boyfriend
 bills
@@ -694,6 +705,8 @@ brand
 bit
 bust
 beg
+beeping
+beach
 Adjust
 America
 Az
@@ -983,6 +996,12 @@ sensitive
 stubborn
 stop
 send
+sensation
+soup
+smelling
+shoulder
+stayed
+silly
 pay
 picked
 pile
@@ -1109,6 +1128,9 @@ preference
 premises
 plan
 prevent
+perception
+painting
+pills
 more
 minute
 money
@@ -1332,6 +1354,7 @@ insomnia
 incurring
 itself
 involve
+infinitives
 first
 for
 forgotten
@@ -1523,6 +1546,7 @@ Enjoy
 England
 Expression
 Excuse
+Eiffel
 of
 off
 only
@@ -1726,6 +1750,9 @@ advised
 ages
 arranged
 appreciate
+aggressively
+artist
+advanced
 Rota
 Robert
 Relying
@@ -1823,6 +1850,9 @@ warmer
 whistling
 win
 wins
+weird
+watched
+wonderful
 up
 until
 us
@@ -1967,6 +1997,10 @@ distance
 doubt
 drinking
 dislike
+draught
+draw
+drawing
+denied
 Housemate
 Ha
 How
@@ -1987,6 +2021,7 @@ Have
 Hasn
 Harry
 Head
+Having
 girlfriend
 going
 gets
@@ -2047,6 +2082,9 @@ guide
 gym
 greatest
 generous
+gas
+garlic
+gerunds
 less
 later
 late
@@ -2144,6 +2182,10 @@ laptop
 lunchtime
 listen
 liters
+lied
+liked
+lock
+locked
 everyone
 electricity
 excess
@@ -2259,6 +2301,8 @@ extinction
 extremely
 enable
 eating
+easier
+exams
 Suggest
 Split
 South
@@ -2397,6 +2441,7 @@ Things
 Then
 Taking
 TV
+Tower
 Come
 Cooking
 Canadian
@@ -2514,6 +2559,7 @@ notifications
 notify
 needed
 near
+noise
 Food
 Fizika
 Find

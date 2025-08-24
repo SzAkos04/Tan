@@ -24,7 +24,7 @@ tags:
 - _though_ is more formal than _although_.
 - _even though_ is stronger than _although_ / _though_ and is used to express a big or surprising contrast.
 - _though_ can also be used as an adverb, usually at the end of a sentence, after a comma. In this case, it means _however_.
-1. After _in spite of_ or _despite_, we can use a noun, a verb in the -ing form, or _the fact that_ + subject + verb.
+1. After _in spite of_ or _despite_, we can use a noun, a verb in the _-ing_ form, or _the fact that_ + subject + verb.
 - Remember not to use _of_ after _despite_. **NOT** ~~Despite of the rain,...~~
 
 ---

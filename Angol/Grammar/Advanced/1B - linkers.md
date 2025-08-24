@@ -45,7 +45,7 @@ tags:
 
 ---
 
-1. _to_, _in order to_, and _so as to_ introduce a clause of purpose and are all followed by an infinite. _to_ is the most informal.
+1. _to_, _in order to_, and _so as to_ introduce a clause of purpose and are all followed by an infinitive. _to_ is the most informal.
 2. For negative purpose we use _so as not to_ or _in order not to_.
 3. We can also use _so_ (_that_) + _can_ / _could_ + verb or _will_ / _would_ + verb to express purpose. _that_ can be left out in informal English.
 - Use _so_ (_that_) when there is a change of subject in the clause of purpose, e.g. She put a blanket over the baby so (that) he wouldn't be cold.
