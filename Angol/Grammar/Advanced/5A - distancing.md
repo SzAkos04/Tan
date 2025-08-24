@@ -31,3 +31,28 @@ tags:
 
 ---
 
+- Another way of distancing ourselves from the facts, especially in formal written English, is to use the passive form of verbs like _say_, _think_, etc. to introduce them. We can use:
+1. _It_ + passive verb + _that_ + clause.
+- Verbs commonly used in this pattern are: _agree_, _announce_, _believe_, _claim_, _expect_, _hope_, _say_, _suggest_, and _think_.
+2. subject + passive verb + _to_ + infinitive.
+- Verbs commonly used in this pattern are: _believe_, _consider_, _expect_, _report_, _say_, _think_, and _understand_.
+3. _There_ can also be used + passive verb + _to_ + infinitive. Compare:
+- **It is said that there are** more than five million people living in poverty in this country.
+- **There are said to be** more than five million people living in poverty in this country.
+
+---
+
+## other distancing expressions: _apparently_, _according to_, _may_ / _might_, _claim_
+
+1. **Apparently**, Jeff and Katie have separated.
+2. **According to** new research, the idea that we have to drink two liters of water a day is a myth.
+3. Dinosaurs **may have died out** due to extremely rapid climate change.
+   There are rumours that the brand, who broke up ten years ago, **might be planning** to reform and record a new album.
+4. The health minister **claims** to have reduced waiting times.
+
+---
+
+1. We use _apparently_ (usually either at the beginning or the end of a phrase) to mean that we have heard / read something, but that it may not be true. This is very common in informal conversation.
+2. We use _according to_ to specify where information has come from. We use it to attribute opinions to somebody else. **NOT** ~~According to me...~~
+3. Using _may_ / _might_ also suggests that something is a possibility, but not necessarily true.
+4. We can say that somebody _claims_ something when there is some doubt about whether it is true.
