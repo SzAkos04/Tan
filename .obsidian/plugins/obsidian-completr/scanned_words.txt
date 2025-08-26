@@ -673,6 +673,7 @@ caring
 correction
 calorie
 core
+changing
 they
 the
 to
@@ -2672,6 +2673,7 @@ Remove
 Replaced
 Risk
 Results
+Retired
 washing
 why
 wait
@@ -3553,6 +3555,8 @@ Short
 Surgery
 Sentimentality
 Sth
+Sense
+Self
 Joint
 Just
 Jane
@@ -3802,6 +3806,7 @@ Counselling
 Cute
 Cynic
 Calories
+Couldn
 Wakes
 Who
 Will
@@ -3837,6 +3842,7 @@ Without
 Weekend
 Women
 Wife
+Went
 Let
 Label
 Look
