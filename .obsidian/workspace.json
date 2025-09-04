@@ -28,7 +28,7 @@
               "type": "markdown",
               "state": {
                 "file": "Matematika/Hatványozás, azonosságai.md",
-                "mode": "preview",
+                "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
@@ -202,12 +202,16 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "2872af3a65a336f0",
+  "active": "c5dc8ea0186ecd3b",
   "lastOpenFiles": [
+    "_templates/Fizika.md",
+    "_templates/Történelem.md",
+    "_templates/Matematika.md",
+    "_templates/Angol.md",
+    "Matematika/Hatványozás, azonosságai.md",
     "Fizika/Halmazállapot változások/03. Párolgás.md",
     "Fizika/Halmazállapot változások/02. Forrás.md",
     "Fizika/Halmazállapot változások/01. Átalakulási hő.md",
-    "Matematika/Hatványozás, azonosságai.md",
     "Matematika/Untitled",
     "Matematika",
     "Fizika/Halmazállapot változások",
@@ -231,10 +235,6 @@
     "Angol/Speaking/Texts/11. How being quiet can change your life.md",
     "Angol/Speaking/Texts/10. History brought to life.md",
     "Angol/Speaking/Texts/09. How children learn language.md",
-    "Angol/Speaking/Texts/08. Childhood memories.md",
-    "Angol/Speaking/Texts/07. What's your personality.md",
-    "Angol/Speaking/Texts/06. The reality of sci-fi.md",
-    "Angol/Speaking/Texts/05. What makes a city attractive.md",
     "Angol/Grammar/Advanced",
     "Angol/Grammar/Upper-Intermediate",
     "Angol/Grammar",
