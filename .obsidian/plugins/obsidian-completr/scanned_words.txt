@@ -81,6 +81,7 @@ Bizonyos
 Belföldön
 Büntet
 Biol
+Boltzmann
 room
 right
 rent
@@ -379,6 +380,13 @@ reg
 rzet
 ralja
 receptor
+roz
+ramer
+raml
+rzott
+rmilyen
+rmaspont
+rug
 One
 Officers
 Often
@@ -639,6 +647,13 @@ helyzett
 harmonikus
 helyzetben
 hideg
+haladt
+helyet
+hidegebbel
+helyhez
+hull
+halmaz
+helyzetet
 convinced
 chooses
 cleaning
@@ -973,6 +988,7 @@ cselekv
 csökken
 csoportosan
 csupasz
+cseppfoly
 they
 the
 to
@@ -1333,6 +1349,14 @@ termoreceptorok
 tokkal
 tokban
 termoreceptor
+testekben
+testben
+tottan
+tartozik
+tezik
+tva
+tolja
+többi
 biggest
 boyfriend
 bills
@@ -1673,6 +1697,7 @@ Azonban
 Aj
 Abszol
 Amplit
+Amikor
 so
 space
 stopped
@@ -2206,6 +2231,12 @@ szagl
 szei
 szövetes
 szövetk
+szil
+szigetel
+sug
+snak
+skor
+solja
 pay
 picked
 pile
@@ -2470,6 +2501,9 @@ porral
 privil
 pi
 periodikus
+poh
+param
+peri
 more
 minute
 money
@@ -2752,6 +2786,14 @@ meleg
 meghaladja
 mechanikai
 mban
+mekben
+mivel
+mben
+mek
+melegebb
+mennyi
+mhossza
+milyens
 Names
 Nervousness
 New
@@ -2815,6 +2857,7 @@ NF
 NVu
 Ns
 Nem
+Napt
 in
 it
 if
@@ -3255,6 +3298,11 @@ függv
 felv
 foto
 felül
+felmeleg
+frekvenci
+felülete
+felet
+frekvencia
 Mess
 Mayer
 Most
@@ -3352,6 +3400,7 @@ Megfelel
 Magasabb
 Meissner
 Merkel
+Megadja
 kitchen
 know
 közölt
@@ -3543,6 +3592,16 @@ kszerv
 kelt
 kiterjed
 körbevett
+közeg
+keresztmetszet
+kötöttek
+közegben
+kisug
+kritikus
+klethez
+kleti
+kinematikai
+konstans
 Enormous
 Establish
 Explain
@@ -3627,6 +3686,8 @@ Ezt
 Emellett
 Ennek
 Egyenletes
+Ehhez
+Egyens
 of
 off
 only
@@ -3748,6 +3809,7 @@ otthonr
 okirat
 olt
 okoz
+oka
 and
 annoying
 account
@@ -4073,6 +4135,13 @@ adekv
 amire
 agyk
 alul
+atomok
+anyag
+abszol
+anyagnak
+alacsonyabb
+amplitudot
+amplit
 Rota
 Robert
 Relying
@@ -4146,6 +4215,7 @@ Rendelkezel
 Relat
 Rezg
 Ruffini
+Rug
 washing
 why
 wait
@@ -4616,6 +4686,9 @@ defektjav
 dult
 dinamikus
 dberendez
+dve
+dinamikai
+dusid
 Housemate
 Ha
 How
@@ -4697,6 +4770,7 @@ HP
 HX
 Harmatpont
 Harmonikus
+Hasonl
 girlfriend
 going
 gets
@@ -4863,6 +4937,9 @@ gleges
 gez
 gia
 gtest
+gkülönbs
+gneses
+gnem
 less
 later
 late
@@ -5130,6 +5207,10 @@ lyis
 lik
 llapotbeli
 ls
+lland
+llapota
+llapotnak
+leges
 everyone
 electricity
 excess
@@ -5383,6 +5464,12 @@ egyens
 esik
 egyenes
 egyenletes
+elektrom
+elnyel
+emisszivit
+eltol
+egyid
+ered
 Suggest
 Split
 South
@@ -5519,6 +5606,8 @@ Szem
 Szüks
 SZAGL
 Sebess
+Szil
+Stefan
 Joint
 Just
 Jane
@@ -5849,6 +5938,8 @@ Kötelez
 Kinematikai
 Kit
 Krause
+Kritikus
+Konstans
 Take
 The
 They
@@ -5939,6 +6030,7 @@ Törekedj
 Törzskönyv
 Tel
 Tenzi
+Trigonometrikusan
 Come
 Cooking
 Canadian
@@ -6109,6 +6201,7 @@ Wq
 WlX
 WEEc
 Wc
+Wien
 Let
 Label
 Look
@@ -6181,6 +6274,7 @@ Lb
 Lm
 Lehet
 Lass
+Legjobb
 need
 nak
 ny
@@ -6356,6 +6450,8 @@ nyjelz
 nc
 nyez
 nti
+nyos
+nevezzük
 Food
 Fizika
 Find
@@ -6447,6 +6543,9 @@ Fk
 FA
 Forgalmi
 Frekvencia
+Folyad
+Felhajt
+Függ
 Give
 General
 German
@@ -6507,6 +6606,7 @@ GJ
 GR
 Gw
 Gyakorlati
+Gyorsul
 You
 York
 YYYY
@@ -6625,6 +6725,8 @@ zt
 zg
 zal
 ztartalomnak
+zokban
+zn
 jut
 ja
 jellemzi
@@ -6694,6 +6796,7 @@ joger
 jdalom
 jdalomreceptorok
 jdalomreceptor
+jelen
 Izotermikus
 Izob
 Izochor

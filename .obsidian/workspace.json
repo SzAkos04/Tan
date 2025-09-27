@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Fizika/Rezgőmozgás/01. Harmonikus rezgőmozgás.md",
-                "mode": "source",
+                "file": "Fizika/Rezgőmozgás/02. Harmonikus rezgőmozgás dinamikai leírása.md",
+                "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "01. Harmonikus rezgőmozgás"
+              "title": "02. Harmonikus rezgőmozgás dinamikai leírása"
             }
           }
         ]
@@ -109,13 +109,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Fizika/Rezgőmozgás/01. Harmonikus rezgőmozgás.md",
+                "file": "Fizika/Rezgőmozgás/02. Harmonikus rezgőmozgás dinamikai leírása.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of 01. Harmonikus rezgőmozgás"
+              "title": "Outline of 02. Harmonikus rezgőmozgás dinamikai leírása"
             }
           },
           {
@@ -189,27 +189,29 @@
   },
   "active": "061b75c5468e50ec",
   "lastOpenFiles": [
+    "Fizika/Rezgőmozgás/01. Harmonikus rezgőmozgás kinematikai leírása.md",
+    "Fizika/Rezgőmozgás/02. Harmonikus rezgőmozgás dinamikai leírása.md",
+    "Fizika/Halmazállapot változások/04. Telített, telítetlen állapot.md",
+    "Fizika/Halmazállapot változások/03. Párolgás.md",
+    "Fizika/Halmazállapot változások/02. Forrás.md",
+    "Fizika/Halmazállapot változások/01. Átalakulási hő.md",
+    "Fizika/Halmazállapot változások/05. Hő terjedési fajtái.md",
     "Fizika/Rezgőmozgás/_img/at.svg",
     "Fizika/Rezgőmozgás/_img/vt.svg",
     "Fizika/Rezgőmozgás/_img/gyorsulas.svg",
     "Biológia/Érzékelés/02. Bőrérzékelés.md",
     "Biológia/Érzékelés/01. Érzékelés.md",
-    "Fizika/Rezgőmozgás/01. Harmonikus rezgőmozgás.md",
     "Fizika/Rezgőmozgás/_img/sebesseg.svg",
     "Fizika/Rezgőmozgás/_img",
     "Fizika/Rezgőmozgás/New folder",
     "Untitled.md",
     "Fizika/Halmazállapot változások/Untitled.md",
     "Fizika/Rezgőmozgás",
-    "Fizika/Halmazállapot változások/05. Hő terjedési fajtái.md",
     "2025-09-24.md",
-    "Fizika/Halmazállapot változások/04. Telített, telítetlen állapot.md",
     "Angol/Speaking/Texts/04. 8 tips on how to spot fake news.md",
     "Angol/Speaking/Texts/03. A case of identity theft.md",
     "Angol/Speaking/Texts/02. The best way to spot a liar.md",
     "Angol/Speaking/Texts/01. Classic student house arguments.md",
-    "Fizika/Halmazállapot változások/02. Forrás.md",
-    "Fizika/Halmazállapot változások/03. Párolgás.md",
     "KRESZ/1. Közlekedési alapismeretek/1.1. A jármű és a vezetője.md",
     "Untitled.base",
     "KRESZ/1. Közlekedési alapismeretek/img/1.1-gepjarmu.png",
@@ -219,7 +221,6 @@
     "KRESZ/1. Közlekedési alapismeretek/img/1.1_gepjarmu.png",
     "KRESZ/1. Közlekedési alapismeretek/img/Screenshot 2025-09-06 133151.png",
     "KRESZ/1. Közlekedési alapismeretek/img/Screenshot 2025-09-06 132040.png",
-    "KRESZ/1. Közlekedési alapismeretek/img/Screenshot 2025-09-06 132033.png",
     "KRESZ/1. Közlekedési alapismeretek/img",
     "KRESZ/5. További vezetési jogosultságok/5.4. Speciálisan a mopedre vonatkozó közlekedési szabályok.md",
     "KRESZ/5. További vezetési jogosultságok/5.3. Elindulás, haladás, megállás mopeddel.md",
@@ -229,7 +230,6 @@
     "KRESZ/4. Különleges helyzetek/4.5. Megkülönböztető jelzést használó járművek és balesetek.md",
     "KRESZ/4. Különleges helyzetek/4.4. Szélsőséges út- és időjárási viszonyok.md",
     "KRESZ/4. Különleges helyzetek/4.3. Vezetés éjszaka és különleges domborzati viszonyok között.md",
-    "KRESZ/4. Különleges helyzetek/4.2. Vészhelyzetek, balesetek.md",
     "KRESZ/5. További vezetési jogosultságok",
     "KRESZ/4. Különleges helyzetek",
     "KRESZ/3. Közlekedési helyzetek és azok résztvevői",
