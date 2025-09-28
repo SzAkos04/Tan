@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Fizika/Rezgőmozgás/02. Harmonikus rezgőmozgás dinamikai leírása.md",
+                "file": "KRESZ/1. Közlekedési alapismeretek/1.1. A jármű és a vezetője.md",
                 "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "02. Harmonikus rezgőmozgás dinamikai leírása"
+              "title": "1.1. A jármű és a vezetője"
             }
           }
         ]
@@ -109,13 +109,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Fizika/Rezgőmozgás/02. Harmonikus rezgőmozgás dinamikai leírása.md",
+                "file": "KRESZ/1. Közlekedési alapismeretek/1.1. A jármű és a vezetője.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of 02. Harmonikus rezgőmozgás dinamikai leírása"
+              "title": "Outline of 1.1. A jármű és a vezetője"
             }
           },
           {
@@ -187,10 +187,14 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "061b75c5468e50ec",
+  "active": "2872af3a65a336f0",
   "lastOpenFiles": [
-    "Fizika/Rezgőmozgás/01. Harmonikus rezgőmozgás kinematikai leírása.md",
+    "KRESZ/5. További vezetési jogosultságok/_img",
+    "KRESZ/4. Különleges helyzetek/_img",
+    "KRESZ/3. Közlekedési helyzetek és azok résztvevői/_img",
+    "KRESZ/2. Rend az utakon/_img",
     "Fizika/Rezgőmozgás/02. Harmonikus rezgőmozgás dinamikai leírása.md",
+    "Fizika/Rezgőmozgás/01. Harmonikus rezgőmozgás kinematikai leírása.md",
     "Fizika/Halmazállapot változások/04. Telített, telítetlen állapot.md",
     "Fizika/Halmazállapot változások/03. Párolgás.md",
     "Fizika/Halmazállapot változások/02. Forrás.md",
@@ -214,14 +218,14 @@
     "Angol/Speaking/Texts/01. Classic student house arguments.md",
     "KRESZ/1. Közlekedési alapismeretek/1.1. A jármű és a vezetője.md",
     "Untitled.base",
-    "KRESZ/1. Közlekedési alapismeretek/img/1.1-gepjarmu.png",
+    "KRESZ/1. Közlekedési alapismeretek/_img/1.1-gepjarmu.png",
     "img.md",
-    "KRESZ/1. Közlekedési alapismeretek/img/1.1-gepkocsi.png",
+    "KRESZ/1. Közlekedési alapismeretek/_img/1.1-gepkocsi.png",
     "KRESZ/1. Közlekedési alapismeretek/img/1.1_gepkocsi.png",
     "KRESZ/1. Közlekedési alapismeretek/img/1.1_gepjarmu.png",
     "KRESZ/1. Közlekedési alapismeretek/img/Screenshot 2025-09-06 133151.png",
     "KRESZ/1. Közlekedési alapismeretek/img/Screenshot 2025-09-06 132040.png",
-    "KRESZ/1. Közlekedési alapismeretek/img",
+    "KRESZ/1. Közlekedési alapismeretek/_img",
     "KRESZ/5. További vezetési jogosultságok/5.4. Speciálisan a mopedre vonatkozó közlekedési szabályok.md",
     "KRESZ/5. További vezetési jogosultságok/5.3. Elindulás, haladás, megállás mopeddel.md",
     "KRESZ/5. További vezetési jogosultságok/5.2. Segédmotoros kerékpár - szerkezeti és üzemeltetési ismeretek.md",
@@ -229,12 +233,8 @@
     "KRESZ/4. Különleges helyzetek/4.6. Műszaki hibák és előírások.md",
     "KRESZ/4. Különleges helyzetek/4.5. Megkülönböztető jelzést használó járművek és balesetek.md",
     "KRESZ/4. Különleges helyzetek/4.4. Szélsőséges út- és időjárási viszonyok.md",
-    "KRESZ/4. Különleges helyzetek/4.3. Vezetés éjszaka és különleges domborzati viszonyok között.md",
     "KRESZ/5. További vezetési jogosultságok",
     "KRESZ/4. Különleges helyzetek",
-    "KRESZ/3. Közlekedési helyzetek és azok résztvevői",
-    "KRESZ/2. Rend az utakon",
-    "KRESZ/1. Közlekedési alapismeretek",
     "Untitled.canvas"
   ]
 }
