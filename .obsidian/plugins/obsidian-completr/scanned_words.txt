@@ -6871,6 +6871,7 @@ IP
 ItZq
 ID
 Ik
+Ismerked
 vel
 vagy
 visszat

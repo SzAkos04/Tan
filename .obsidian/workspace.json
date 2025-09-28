@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "fbbb47093613c104",
+        "id": "46808c8ae0925cf2",
         "type": "tabs",
         "children": [
           {
-            "id": "061b75c5468e50ec",
+            "id": "9fda29ff7fb8d1b8",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "split-diff-view",
               "state": {
-                "file": "KRESZ/1. Közlekedési alapismeretek/1.1. A jármű és a vezetője.md",
-                "mode": "preview",
-                "source": false
+                "aFile": "KRESZ/1. Közlekedési alapismeretek/1.1. A jármű és a vezetője.md",
+                "bFile": "KRESZ/1. Közlekedési alapismeretek/1.1. A jármű és a vezetője.md",
+                "aRef": ""
               },
-              "icon": "lucide-file",
-              "title": "1.1. A jármű és a vezetője"
+              "icon": "diff",
+              "title": "Diff: 1.1. A jármű és a vezetője"
             }
           }
         ]
@@ -109,13 +109,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "KRESZ/1. Közlekedési alapismeretek/1.1. A jármű és a vezetője.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of 1.1. A jármű és a vezetője"
+              "title": "Outline"
             }
           },
           {
@@ -187,8 +186,10 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "2872af3a65a336f0",
+  "active": "9fda29ff7fb8d1b8",
   "lastOpenFiles": [
+    "KRESZ/1. Közlekedési alapismeretek/1.1. A jármű és a vezetője.md",
+    "KRESZ/1. Közlekedési alapismeretek/1.2. Ismerkedés az autóval.md",
     "KRESZ/5. További vezetési jogosultságok/_img",
     "KRESZ/4. Különleges helyzetek/_img",
     "KRESZ/3. Közlekedési helyzetek és azok résztvevői/_img",
@@ -216,7 +217,6 @@
     "Angol/Speaking/Texts/03. A case of identity theft.md",
     "Angol/Speaking/Texts/02. The best way to spot a liar.md",
     "Angol/Speaking/Texts/01. Classic student house arguments.md",
-    "KRESZ/1. Közlekedési alapismeretek/1.1. A jármű és a vezetője.md",
     "Untitled.base",
     "KRESZ/1. Közlekedési alapismeretek/_img/1.1-gepjarmu.png",
     "img.md",
@@ -234,7 +234,6 @@
     "KRESZ/4. Különleges helyzetek/4.5. Megkülönböztető jelzést használó járművek és balesetek.md",
     "KRESZ/4. Különleges helyzetek/4.4. Szélsőséges út- és időjárási viszonyok.md",
     "KRESZ/5. További vezetési jogosultságok",
-    "KRESZ/4. Különleges helyzetek",
     "Untitled.canvas"
   ]
 }
