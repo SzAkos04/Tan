@@ -1,0 +1,7 @@
+.math,
+.math-block {
+  display: block !important;
+  text-align: left !important;
+  margin-left: 0 !important;
+  margin-right: auto !important;
+}

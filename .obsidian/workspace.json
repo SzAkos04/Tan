@@ -11,14 +11,14 @@
             "id": "9fda29ff7fb8d1b8",
             "type": "leaf",
             "state": {
-              "type": "split-diff-view",
+              "type": "markdown",
               "state": {
-                "aFile": "KRESZ/1. Közlekedési alapismeretek/1.1. A jármű és a vezetője.md",
-                "bFile": "KRESZ/1. Közlekedési alapismeretek/1.1. A jármű és a vezetője.md",
-                "aRef": ""
+                "file": "Fizika/Rezgőmozgás/07. Csillapítatlan, csillapodó rezgőmozgás.md",
+                "mode": "preview",
+                "source": false
               },
-              "icon": "diff",
-              "title": "Diff: 1.1. A jármű és a vezetője"
+              "icon": "lucide-file",
+              "title": "07. Csillapítatlan, csillapodó rezgőmozgás"
             }
           }
         ]
@@ -109,12 +109,13 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "Fizika/Rezgőmozgás/07. Csillapítatlan, csillapodó rezgőmozgás.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline"
+              "title": "Outline of 07. Csillapítatlan, csillapodó rezgőmozgás"
             }
           },
           {
@@ -149,9 +150,19 @@
               "icon": "links-going-out",
               "title": "Outgoing links from 3B - adverbs and adverbial expressions"
             }
+          },
+          {
+            "id": "c544eca641370110",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {},
+              "icon": "spreadsheet",
+              "title": "Advanced Tables"
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 4
       },
       {
         "id": "0c810eb29c9863af",
@@ -183,19 +194,32 @@
       "templates:Insert template": true,
       "command-palette:Open command palette": false,
       "obsidian-git:Open Git source control": false,
-      "templater-obsidian:Templater": false
+      "templater-obsidian:Templater": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
   "active": "9fda29ff7fb8d1b8",
   "lastOpenFiles": [
+    "Fizika/Rezgőmozgás/_img/csillapodo.jpg",
+    "Fizika/Rezgőmozgás/_img/csillapitott.svg",
+    "Fizika/Rezgőmozgás/_img/csillapitatlan.svg",
+    "Fizika/Rezgőmozgás/01. Harmonikus rezgőmozgás kinematikai leírása.md",
+    "Fizika/Rezgőmozgás/_img/yt.svg",
+    "Fizika/Rezgőmozgás/07. Csillapítatlan, csillapodó rezgőmozgás.md",
+    "Fizika/Rezgőmozgás/06. Fizikai inga.md",
+    "Fizika/Rezgőmozgás/05. Matematikai inga gyorsuló közegben.md",
+    "Fizika/Rezgőmozgás/04. Mérési jegyzőkönyv tartalma.md",
+    "Fizika/Rezgőmozgás/02. Harmonikus rezgőmozgás dinamikai leírása.md",
+    "Fizika/Rezgőmozgás/03. Matematikai inga rezgésideje.md",
+    "Fizika/Rezgőmozgás/_img/mat_inga.svg",
+    "Angol/Grammar/Advanced/1A - have.md",
+    "Angol/Grammar/Advanced/1B - linkers.md",
     "KRESZ/1. Közlekedési alapismeretek/1.1. A jármű és a vezetője.md",
     "KRESZ/1. Közlekedési alapismeretek/1.2. Ismerkedés az autóval.md",
     "KRESZ/5. További vezetési jogosultságok/_img",
     "KRESZ/4. Különleges helyzetek/_img",
     "KRESZ/3. Közlekedési helyzetek és azok résztvevői/_img",
     "KRESZ/2. Rend az utakon/_img",
-    "Fizika/Rezgőmozgás/02. Harmonikus rezgőmozgás dinamikai leírása.md",
-    "Fizika/Rezgőmozgás/01. Harmonikus rezgőmozgás kinematikai leírása.md",
     "Fizika/Halmazállapot változások/04. Telített, telítetlen állapot.md",
     "Fizika/Halmazállapot változások/03. Párolgás.md",
     "Fizika/Halmazállapot változások/02. Forrás.md",
@@ -219,20 +243,8 @@
     "Angol/Speaking/Texts/01. Classic student house arguments.md",
     "Untitled.base",
     "KRESZ/1. Közlekedési alapismeretek/_img/1.1-gepjarmu.png",
-    "img.md",
     "KRESZ/1. Közlekedési alapismeretek/_img/1.1-gepkocsi.png",
-    "KRESZ/1. Közlekedési alapismeretek/img/1.1_gepkocsi.png",
-    "KRESZ/1. Közlekedési alapismeretek/img/1.1_gepjarmu.png",
-    "KRESZ/1. Közlekedési alapismeretek/img/Screenshot 2025-09-06 133151.png",
-    "KRESZ/1. Közlekedési alapismeretek/img/Screenshot 2025-09-06 132040.png",
     "KRESZ/1. Közlekedési alapismeretek/_img",
-    "KRESZ/5. További vezetési jogosultságok/5.4. Speciálisan a mopedre vonatkozó közlekedési szabályok.md",
-    "KRESZ/5. További vezetési jogosultságok/5.3. Elindulás, haladás, megállás mopeddel.md",
-    "KRESZ/5. További vezetési jogosultságok/5.2. Segédmotoros kerékpár - szerkezeti és üzemeltetési ismeretek.md",
-    "KRESZ/5. További vezetési jogosultságok/5.1. Mire jogosít fel a 'B' kategória.md",
-    "KRESZ/4. Különleges helyzetek/4.6. Műszaki hibák és előírások.md",
-    "KRESZ/4. Különleges helyzetek/4.5. Megkülönböztető jelzést használó járművek és balesetek.md",
-    "KRESZ/4. Különleges helyzetek/4.4. Szélsőséges út- és időjárási viszonyok.md",
     "KRESZ/5. További vezetési jogosultságok",
     "Untitled.canvas"
   ]
