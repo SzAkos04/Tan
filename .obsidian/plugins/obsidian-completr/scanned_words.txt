@@ -389,6 +389,11 @@ rmaspont
 rug
 relat
 relev
+ris
+reduk
+rhuzamos
+rendszerb
+rendszerre
 One
 Officers
 Often
@@ -661,6 +666,7 @@ hossz
 hibasz
 hiba
 hibaokot
+hossza
 convinced
 chooses
 cleaning
@@ -997,6 +1003,7 @@ csoportosan
 csupasz
 cseppfoly
 csillapod
+csillap
 they
 the
 to
@@ -1368,6 +1375,15 @@ többi
 tartalma
 tlagsz
 tatlan
+testet
+tehetetlens
+tömegköz
+tmen
+tengellyel
+tengelyre
+tartalmaz
+tlag
+trejött
 biggest
 boyfriend
 bills
@@ -1605,6 +1621,7 @@ bekövetkez
 baleset
 bevonj
 bla
+belülr
 Adjust
 America
 Az
@@ -2251,6 +2268,8 @@ skor
 solja
 sideje
 szik
+szögkit
+seink
 pay
 picked
 pile
@@ -2519,6 +2538,10 @@ poh
 param
 peri
 pontokhoz
+pontra
+pponton
+pontp
+pontosak
 more
 minute
 money
@@ -2809,6 +2832,9 @@ melegebb
 mennyi
 mhossza
 milyens
+matematikai
+meredeks
+molt
 Names
 Nervousness
 New
@@ -3323,6 +3349,9 @@ frekvencia
 fon
 feladat
 felsorolni
+fejl
+felfüggeszt
+fizikai
 Mess
 Mayer
 Most
@@ -3711,6 +3740,7 @@ Ennek
 Egyenletes
 Ehhez
 Egyens
+Ezekb
 of
 off
 only
@@ -4168,6 +4198,7 @@ amplitudot
 amplit
 aosetnuhaosenuht
 alakul
+amellyel
 Rota
 Robert
 Relying
@@ -4243,6 +4274,7 @@ Rezg
 Ruffini
 Rug
 Rezeg
+Rendszer
 washing
 why
 wait
@@ -4718,6 +4750,7 @@ dinamikai
 dusid
 disszip
 dik
+dusidej
 Housemate
 Ha
 How
@@ -4971,6 +5004,9 @@ gneses
 gnem
 gt
 grafikonok
+gyorsul
+grafikonnal
+gtelensok
 less
 later
 late
@@ -5247,6 +5283,9 @@ leng
 lete
 legközelebb
 lda
+line
+legesen
+leolvasva
 everyone
 electricity
 excess
@@ -5508,6 +5547,7 @@ egyid
 ered
 eszközök
 elhanyagolhat
+exponenci
 Suggest
 Split
 South
@@ -5646,6 +5686,7 @@ SZAGL
 Sebess
 Szil
 Stefan
+Steiner
 Joint
 Just
 Jane
@@ -5878,6 +5919,7 @@ Dmj
 Dua
 Dx
 DbO
+Dinamikai
 your
 you
 yours
@@ -5978,6 +6020,7 @@ Kit
 Krause
 Kritikus
 Konstans
+Kiterjedt
 Take
 The
 They
@@ -6174,6 +6217,7 @@ CQWi
 CN
 Csak
 Csillap
+Csillapod
 Wakes
 Who
 Will
@@ -6494,6 +6538,9 @@ nyos
 nevezzük
 nyekb
 ns
+nyomat
+nyszerrezg
+nyszerer
 Food
 Fizika
 Find
@@ -6588,6 +6635,8 @@ Frekvencia
 Folyad
 Felhajt
 Függ
+Fizikai
+Fell
 Give
 General
 German
@@ -6649,6 +6698,7 @@ GR
 Gw
 Gyakorlati
 Gyorsul
+Grafikonr
 You
 York
 YYYY
@@ -6712,6 +6762,7 @@ YQ
 öoH
 önerej
 össztömeg
+öt
 zr
 zon
 zzal
@@ -6771,6 +6822,7 @@ zokban
 zn
 zben
 zatok
+zszintesen
 jut
 ja
 jellemzi
@@ -6917,6 +6969,7 @@ ItZq
 ID
 Ik
 Ismerked
+Inerciarendszerb
 vel
 vagy
 visszat
@@ -7041,6 +7094,8 @@ veszi
 vagyis
 vjuk
 vetülete
+vonatkoztatott
+voltak
 questions
 quality
 qualifications

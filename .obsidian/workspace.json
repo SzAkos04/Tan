@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Fizika/Rezgőmozgás/07. Csillapítatlan, csillapodó rezgőmozgás.md",
+                "file": "Fizika/Rezgőmozgás/05. Matematikai inga gyorsuló közegben.md",
                 "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "07. Csillapítatlan, csillapodó rezgőmozgás"
+              "title": "05. Matematikai inga gyorsuló közegben"
             }
           }
         ]
@@ -200,17 +200,22 @@
   },
   "active": "9fda29ff7fb8d1b8",
   "lastOpenFiles": [
+    "Fizika/Rezgőmozgás/04. Mérési jegyzőkönyv tartalma.md",
+    "Fizika/Rezgőmozgás/03. Matematikai inga rezgésideje.md",
+    "Fizika/Rezgőmozgás/02. Harmonikus rezgőmozgás dinamikai leírása.md",
+    "Fizika/Rezgőmozgás/01. Harmonikus rezgőmozgás kinematikai leírása.md",
+    "Fizika/Rezgőmozgás/09. Csatolt rezgés, csatolt ingák.md",
+    "Fizika/Rezgőmozgás/_img/csatolt2.svg",
+    "Fizika/Rezgőmozgás/_img/csatolt1.svg",
+    "Fizika/Rezgőmozgás/08. Kényszerrezgés.md",
+    "Fizika/Rezgőmozgás/_img/rezonancia.svg",
+    "Fizika/Rezgőmozgás/06. Fizikai inga.md",
+    "Fizika/Rezgőmozgás/07. Csillapítatlan, csillapodó rezgőmozgás.md",
+    "Fizika/Rezgőmozgás/05. Matematikai inga gyorsuló közegben.md",
     "Fizika/Rezgőmozgás/_img/csillapodo.jpg",
     "Fizika/Rezgőmozgás/_img/csillapitott.svg",
     "Fizika/Rezgőmozgás/_img/csillapitatlan.svg",
-    "Fizika/Rezgőmozgás/01. Harmonikus rezgőmozgás kinematikai leírása.md",
     "Fizika/Rezgőmozgás/_img/yt.svg",
-    "Fizika/Rezgőmozgás/07. Csillapítatlan, csillapodó rezgőmozgás.md",
-    "Fizika/Rezgőmozgás/06. Fizikai inga.md",
-    "Fizika/Rezgőmozgás/05. Matematikai inga gyorsuló közegben.md",
-    "Fizika/Rezgőmozgás/04. Mérési jegyzőkönyv tartalma.md",
-    "Fizika/Rezgőmozgás/02. Harmonikus rezgőmozgás dinamikai leírása.md",
-    "Fizika/Rezgőmozgás/03. Matematikai inga rezgésideje.md",
     "Fizika/Rezgőmozgás/_img/mat_inga.svg",
     "Angol/Grammar/Advanced/1A - have.md",
     "Angol/Grammar/Advanced/1B - linkers.md",
@@ -227,10 +232,8 @@
     "Fizika/Halmazállapot változások/05. Hő terjedési fajtái.md",
     "Fizika/Rezgőmozgás/_img/at.svg",
     "Fizika/Rezgőmozgás/_img/vt.svg",
-    "Fizika/Rezgőmozgás/_img/gyorsulas.svg",
     "Biológia/Érzékelés/02. Bőrérzékelés.md",
     "Biológia/Érzékelés/01. Érzékelés.md",
-    "Fizika/Rezgőmozgás/_img/sebesseg.svg",
     "Fizika/Rezgőmozgás/_img",
     "Fizika/Rezgőmozgás/New folder",
     "Untitled.md",
@@ -239,11 +242,7 @@
     "2025-09-24.md",
     "Angol/Speaking/Texts/04. 8 tips on how to spot fake news.md",
     "Angol/Speaking/Texts/03. A case of identity theft.md",
-    "Angol/Speaking/Texts/02. The best way to spot a liar.md",
-    "Angol/Speaking/Texts/01. Classic student house arguments.md",
     "Untitled.base",
-    "KRESZ/1. Közlekedési alapismeretek/_img/1.1-gepjarmu.png",
-    "KRESZ/1. Közlekedési alapismeretek/_img/1.1-gepkocsi.png",
     "KRESZ/1. Közlekedési alapismeretek/_img",
     "KRESZ/5. További vezetési jogosultságok",
     "Untitled.canvas"
