@@ -13,15 +13,16 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Fizika/Rezgőmozgás/02. Harmonikus rezgőmozgás dinamikai leírása.md",
+                "file": "KRESZ/1. Közlekedési alapismeretek/1.1. A jármű és a vezetője.md",
                 "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "02. Harmonikus rezgőmozgás dinamikai leírása"
+              "title": "1.1. A jármű és a vezetője"
             }
           }
-        ]
+        ],
+        "stacked": true
       }
     ],
     "direction": "vertical"
@@ -78,7 +79,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "2cb82efc64c1ecb6",
@@ -87,6 +89,7 @@
       {
         "id": "f020085433131c94",
         "type": "tabs",
+        "dimension": 73.8544474393531,
         "children": [
           {
             "id": "c10b1dfc0e83ad17",
@@ -109,13 +112,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Fizika/Rezgőmozgás/02. Harmonikus rezgőmozgás dinamikai leírása.md",
+                "file": "KRESZ/1. Közlekedési alapismeretek/1.1. A jármű és a vezetője.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of 02. Harmonikus rezgőmozgás dinamikai leírása"
+              "title": "Outline of 1.1. A jármű és a vezetője"
             }
           },
           {
@@ -157,8 +160,8 @@
             "state": {
               "type": "advanced-tables-toolbar",
               "state": {},
-              "icon": "lucide-ghost",
-              "title": "advanced-tables-toolbar"
+              "icon": "spreadsheet",
+              "title": "Advanced Tables"
             }
           }
         ],
@@ -167,6 +170,7 @@
       {
         "id": "0c810eb29c9863af",
         "type": "tabs",
+        "dimension": 26.1455525606469,
         "children": [
           {
             "id": "5927e1f7f496c34b",
@@ -200,10 +204,10 @@
   },
   "active": "9fda29ff7fb8d1b8",
   "lastOpenFiles": [
+    "Fizika/Rezgőmozgás/02. Harmonikus rezgőmozgás dinamikai leírása.md",
     "Fizika/Rezgőmozgás/01. Harmonikus rezgőmozgás kinematikai leírása.md",
     "Fizika/Rezgőmozgás/04. Mérési jegyzőkönyv tartalma.md",
     "Fizika/Rezgőmozgás/03. Matematikai inga rezgésideje.md",
-    "Fizika/Rezgőmozgás/02. Harmonikus rezgőmozgás dinamikai leírása.md",
     "Fizika/Rezgőmozgás/09. Csatolt rezgés, csatolt ingák.md",
     "Fizika/Rezgőmozgás/06. Fizikai inga.md",
     "Fizika/Rezgőmozgás/05. Matematikai inga gyorsuló közegben.md",
