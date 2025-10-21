@@ -14,7 +14,7 @@
               "type": "markdown",
               "state": {
                 "file": "Fizika/Rezgőmozgás/02. Harmonikus rezgőmozgás dinamikai leírása.md",
-                "mode": "source",
+                "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
@@ -109,13 +109,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Fizika/Rezgőmozgás/07. Csillapítatlan, csillapodó rezgőmozgás.md",
+                "file": "Fizika/Rezgőmozgás/02. Harmonikus rezgőmozgás dinamikai leírása.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of 07. Csillapítatlan, csillapodó rezgőmozgás"
+              "title": "Outline of 02. Harmonikus rezgőmozgás dinamikai leírása"
             }
           },
           {
@@ -162,7 +162,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 1
       },
       {
         "id": "0c810eb29c9863af",
@@ -201,12 +201,12 @@
   "active": "9fda29ff7fb8d1b8",
   "lastOpenFiles": [
     "Fizika/Rezgőmozgás/01. Harmonikus rezgőmozgás kinematikai leírása.md",
-    "Fizika/Rezgőmozgás/09. Csatolt rezgés, csatolt ingák.md",
-    "Fizika/Rezgőmozgás/06. Fizikai inga.md",
-    "Fizika/Rezgőmozgás/05. Matematikai inga gyorsuló közegben.md",
     "Fizika/Rezgőmozgás/04. Mérési jegyzőkönyv tartalma.md",
     "Fizika/Rezgőmozgás/03. Matematikai inga rezgésideje.md",
     "Fizika/Rezgőmozgás/02. Harmonikus rezgőmozgás dinamikai leírása.md",
+    "Fizika/Rezgőmozgás/09. Csatolt rezgés, csatolt ingák.md",
+    "Fizika/Rezgőmozgás/06. Fizikai inga.md",
+    "Fizika/Rezgőmozgás/05. Matematikai inga gyorsuló közegben.md",
     "Fizika/Rezgőmozgás/_img/csatolt2.svg",
     "Fizika/Rezgőmozgás/_img/csatolt1.svg",
     "Fizika/Rezgőmozgás/08. Kényszerrezgés.md",
