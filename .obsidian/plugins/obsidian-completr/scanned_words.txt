@@ -668,6 +668,8 @@ hibasz
 hiba
 hibaokot
 hossza
+holtt
+holtterek
 convinced
 chooses
 cleaning
@@ -1388,6 +1390,8 @@ tlag
 trejött
 testek
 tank
+tükrök
+tradicion
 biggest
 boyfriend
 bills
@@ -1626,6 +1630,7 @@ baleset
 bevonj
 bla
 belülr
+berendez
 Adjust
 America
 Az
@@ -2276,6 +2281,8 @@ szögkit
 seink
 sfoka
 sik
+szerveinek
+sekkel
 pay
 picked
 pile
@@ -3360,6 +3367,7 @@ felsorolni
 fejl
 felfüggeszt
 fizikai
+fogalm
 Mess
 Mayer
 Most
@@ -3665,6 +3673,7 @@ könyv
 közegellen
 kapcsolatban
 kett
+köd
 Enormous
 Establish
 Explain
@@ -5018,6 +5027,7 @@ grafikonok
 gyorsul
 grafikonnal
 gtelensok
+gumiabroncsokkal
 less
 later
 late
@@ -7109,6 +7119,8 @@ vjuk
 vetülete
 vonatkoztatott
 voltak
+visszapillant
+vil
 questions
 quality
 qualifications
@@ -7269,6 +7281,7 @@ Vezet
 üzemben
 üzembentart
 üzemanyag
+ül
 Zilberstein
 Zy
 ZL
