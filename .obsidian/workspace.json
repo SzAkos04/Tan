@@ -79,7 +79,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "2cb82efc64c1ecb6",
@@ -203,6 +204,11 @@
   },
   "active": "9fda29ff7fb8d1b8",
   "lastOpenFiles": [
+    "KRESZ/_img/1.2-latoter-es-holtter.png",
+    "KRESZ/_img/1.1-gepkocsi.png",
+    "KRESZ/_img/1.2-holtterek-hellenorzese.png",
+    "KRESZ/_img/1.1-gepjarmu.png",
+    "KRESZ/_img",
     "KRESZ/1. Közlekedési alapismeretek/1.1. A jármű és a vezetője.md",
     "KRESZ/1. Közlekedési alapismeretek/1.2. Ismerkedés az autóval.md",
     "KRESZ/1. Közlekedési alapismeretek/_img/1.2-holtterek-hellenorzese.png",
@@ -221,9 +227,6 @@
     "Fizika/Rezgőmozgás/08. Kényszerrezgés.md",
     "Fizika/Rezgőmozgás/_img/rezonancia.svg",
     "Fizika/Rezgőmozgás/07. Csillapítatlan, csillapodó rezgőmozgás.md",
-    "Fizika/Rezgőmozgás/_img/csillapodo.jpg",
-    "Fizika/Rezgőmozgás/_img/csillapitott.svg",
-    "Fizika/Rezgőmozgás/_img/csillapitatlan.svg",
     "Angol/Grammar/Advanced/1A - have.md",
     "Angol/Grammar/Advanced/1B - linkers.md",
     "KRESZ/5. További vezetési jogosultságok/_img",
@@ -247,7 +250,6 @@
     "Angol/Speaking/Texts/03. A case of identity theft.md",
     "Untitled.base",
     "KRESZ/1. Közlekedési alapismeretek/_img",
-    "KRESZ/5. További vezetési jogosultságok",
     "Untitled.canvas"
   ]
 }
