@@ -79,8 +79,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "2cb82efc64c1ecb6",
@@ -206,6 +205,10 @@
   "lastOpenFiles": [
     "KRESZ/1. Közlekedési alapismeretek/1.1. A jármű és a vezetője.md",
     "KRESZ/1. Közlekedési alapismeretek/1.2. Ismerkedés az autóval.md",
+    "KRESZ/1. Közlekedési alapismeretek/_img/1.2-holtterek-hellenorzese.png",
+    "KRESZ/1. Közlekedési alapismeretek/_img/1.2-latoter-es-holtter.png",
+    "KRESZ/1. Közlekedési alapismeretek/_img/Screenshot 2025-10-23 093834.png",
+    "KRESZ/1. Közlekedési alapismeretek/_img/Screenshot 2025-10-23 093814.png",
     "Fizika/Rezgőmozgás/02. Harmonikus rezgőmozgás dinamikai leírása.md",
     "Fizika/Rezgőmozgás/01. Harmonikus rezgőmozgás kinematikai leírása.md",
     "Fizika/Rezgőmozgás/04. Mérési jegyzőkönyv tartalma.md",
@@ -221,8 +224,6 @@
     "Fizika/Rezgőmozgás/_img/csillapodo.jpg",
     "Fizika/Rezgőmozgás/_img/csillapitott.svg",
     "Fizika/Rezgőmozgás/_img/csillapitatlan.svg",
-    "Fizika/Rezgőmozgás/_img/yt.svg",
-    "Fizika/Rezgőmozgás/_img/mat_inga.svg",
     "Angol/Grammar/Advanced/1A - have.md",
     "Angol/Grammar/Advanced/1B - linkers.md",
     "KRESZ/5. További vezetési jogosultságok/_img",
@@ -234,8 +235,6 @@
     "Fizika/Halmazállapot változások/02. Forrás.md",
     "Fizika/Halmazállapot változások/01. Átalakulási hő.md",
     "Fizika/Halmazállapot változások/05. Hő terjedési fajtái.md",
-    "Fizika/Rezgőmozgás/_img/at.svg",
-    "Fizika/Rezgőmozgás/_img/vt.svg",
     "Biológia/Érzékelés/02. Bőrérzékelés.md",
     "Biológia/Érzékelés/01. Érzékelés.md",
     "Fizika/Rezgőmozgás/_img",
