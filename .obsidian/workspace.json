@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "46808c8ae0925cf2",
+        "id": "5370236f7ed6e74f",
         "type": "tabs",
         "children": [
           {
-            "id": "9fda29ff7fb8d1b8",
+            "id": "d5e35b8fb6c79417",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -21,8 +21,7 @@
               "title": "1.2. Ismerkedés az autóval"
             }
           }
-        ],
-        "stacked": true
+        ]
       }
     ],
     "direction": "vertical"
@@ -79,7 +78,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "2cb82efc64c1ecb6",
@@ -88,7 +88,7 @@
       {
         "id": "f020085433131c94",
         "type": "tabs",
-        "dimension": 54.177545691906005,
+        "dimension": 70.27777777777777,
         "children": [
           {
             "id": "c10b1dfc0e83ad17",
@@ -169,7 +169,7 @@
       {
         "id": "0c810eb29c9863af",
         "type": "tabs",
-        "dimension": 45.822454308093995,
+        "dimension": 29.72222222222222,
         "children": [
           {
             "id": "5927e1f7f496c34b",
@@ -201,22 +201,28 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "9fda29ff7fb8d1b8",
+  "active": "5927e1f7f496c34b",
   "lastOpenFiles": [
+    "KRESZ/_img/1.2-kormanyszervo_hiba_sarga.png",
+    "KRESZ/_img/1.2-kormanyszervo_hiba_piros.png",
+    "KRESZ/_img/Screenshot 2025-10-24 133915.png",
+    "KRESZ/_img/Screenshot 2025-10-24 133904.png",
+    "KRESZ/_img/1.2-kormanyfogas_kanyarodaskor.mp4",
+    "KRESZ/_img/1.2-kormanyfogas.png",
+    "KRESZ/_img/Screenshot 2025-10-24 131031.png",
+    "KRESZ/_img/1.2-kormanyszerkezet.png",
+    "KRESZ/_img/1.2-fekrendszer_hiba.png",
+    "KRESZ/_img/1.2-kezifek_jelzo.png",
+    "KRESZ/_img/Screenshot 2025-10-24 124947.png",
+    "KRESZ/_img/Screenshot 2025-10-24 124934.png",
+    "KRESZ/_img/1.2-elindulas_folyamata.mp4",
+    "KRESZ/1. Közlekedési alapismeretek/1.3. Felkészülés az elindulásra.md",
     "KRESZ/1. Közlekedési alapismeretek/1.2. Ismerkedés az autóval.md",
-    "KRESZ/_img/1.2-B_oszlop_j.png",
-    "KRESZ/_img/1.2-C_D_oszlop.png",
-    "KRESZ/_img/1.2-jarmu_hatulja.png",
-    "KRESZ/_img/1.2-B_oszlop_b.png",
-    "KRESZ/_img/Screenshot 2025-10-23 234401.png",
-    "KRESZ/_img/1.2-B-oszlop.png",
-    "KRESZ/_img/1.2-A_oszlop.png",
-    "KRESZ/_img/Screenshot 2025-10-23 234430.png",
-    "KRESZ/_img/Screenshot 2025-10-23 234335.png",
-    "KRESZ/_img/Screenshot 2025-10-23 234301.png",
-    "KRESZ/_img",
+    "KRESZ/_img/1.2-holtterek.mp4",
+    "KRESZ/_img/Screen Recording 2025-10-24 113809.mp4",
     "KRESZ/1. Közlekedési alapismeretek/1.1. A jármű és a vezetője.md",
     "Fizika/Rezgőmozgás/02. Harmonikus rezgőmozgás dinamikai leírása.md",
+    "KRESZ/_img",
     "Fizika/Rezgőmozgás/01. Harmonikus rezgőmozgás kinematikai leírása.md",
     "Fizika/Rezgőmozgás/04. Mérési jegyzőkönyv tartalma.md",
     "Fizika/Rezgőmozgás/03. Matematikai inga rezgésideje.md",
@@ -239,15 +245,10 @@
     "Biológia/Érzékelés/02. Bőrérzékelés.md",
     "Biológia/Érzékelés/01. Érzékelés.md",
     "Fizika/Rezgőmozgás/_img",
-    "Fizika/Rezgőmozgás/New folder",
     "Untitled.md",
     "Fizika/Halmazállapot változások/Untitled.md",
-    "Fizika/Rezgőmozgás",
     "2025-09-24.md",
     "Angol/Speaking/Texts/04. 8 tips on how to spot fake news.md",
-    "Angol/Speaking/Texts/03. A case of identity theft.md",
-    "Untitled.base",
-    "KRESZ/1. Közlekedési alapismeretek/_img",
     "Untitled.canvas"
   ]
 }
