@@ -14,7 +14,7 @@
               "type": "markdown",
               "state": {
                 "file": "KRESZ/1. Közlekedési alapismeretek/1.3. Felkészülés az elindulásra.md",
-                "mode": "preview",
+                "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
@@ -78,7 +78,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "2cb82efc64c1ecb6",
@@ -87,7 +88,7 @@
       {
         "id": "f020085433131c94",
         "type": "tabs",
-        "dimension": 59.166666666666664,
+        "dimension": 59.16666666666666,
         "children": [
           {
             "id": "c10b1dfc0e83ad17",
@@ -202,30 +203,30 @@
   },
   "active": "d5e35b8fb6c79417",
   "lastOpenFiles": [
-    "KRESZ/_img/1.3-kodlampa_hatso_jelzo.png",
-    "KRESZ/_img/1.3-kodlampa_elso_jelzo.png",
-    "KRESZ/_img/1.3-kodlampa_elso_jelzo (2).png",
-    "KRESZ/_img/1.3-kodlampa_elso_jelzo (1).png",
-    "KRESZ/_img/Screenshot 2025-11-01 135252.png",
-    "KRESZ/_img/Screenshot 2025-11-01 135243.png",
+    "KRESZ/_img/1.3-inditokulcs_allasai.png",
+    "KRESZ/_img/1.3-tengelykapcsolo_benyomasa.png",
+    "KRESZ/_img/1.3-sebessegvalto_kar_uresbe.png",
+    "KRESZ/_img/1.3-sebessegkar_ures.png",
+    "KRESZ/_img/1.3-kezifek_behuzasa.png",
+    "KRESZ/_img/Screenshot 2025-11-02 132458.png",
+    "KRESZ/_img/Screenshot 2025-11-02 132452.png",
+    "KRESZ/_img/Screenshot 2025-11-02 132446.png",
+    "KRESZ/_img/1.3-gyujtaskapcsolo_hasznalata.mp4",
+    "KRESZ/_img/1.3-tengelykapcsolo.mp4",
+    "KRESZ/_img/1.3-veszvillogo.png",
+    "KRESZ/_img/1.3-muszerfal.png",
+    "KRESZ/_img/1.3-kezifek_szerkezete.mp4",
+    "KRESZ/_img/1.3-gumiabroncs_kopas_kagylos.png",
     "KRESZ/1. Közlekedési alapismeretek/1.2. Ismerkedés az autóval.md",
     "KRESZ/1. Közlekedési alapismeretek/1.1. A jármű és a vezetője.md",
-    "KRESZ/_img/1.2-hatso_veszvillogo.gif",
-    "KRESZ/_img/Recording2025-11-01134720-ezgif.com-video-to-gif-converter.gif",
     "KRESZ/_img/Recording 2025-11-01 134720.mp4",
-    "KRESZ/_img/1.2-hatso_iranyjelzo.gif",
-    "KRESZ/_img/Recording2025-11-01134532-ezgif.com-video-to-gif-converter.gif",
     "KRESZ/_img/Recording 2025-11-01 134532.mp4",
-    "KRESZ/_img/1.2-elso_veszvillogo.gif",
     "KRESZ/_img/Recording 2025-11-01 134128.mp4",
     "KRESZ/1. Közlekedési alapismeretek/1.3. Felkészülés az elindulásra.md",
     "KRESZ/_img/1.3-iranyjelzo_jelzo.mp4",
     "KRESZ/_img/Recording 2025-11-01 132853.mp4",
     "KRESZ/_img/Recording 2025-11-01 132119.mp4",
     "KRESZ/_img/1.2-kormanyfogas_kanyarodaskor.mp4",
-    "KRESZ/_img/1.2-elindulas_folyamata.mp4",
-    "KRESZ/_img/1.2-holtterek.mp4",
-    "KRESZ/_img/Screen Recording 2025-10-24 113809.mp4",
     "Fizika/Rezgőmozgás/02. Harmonikus rezgőmozgás dinamikai leírása.md",
     "Fizika/Rezgőmozgás/01. Harmonikus rezgőmozgás kinematikai leírása.md",
     "Fizika/Rezgőmozgás/04. Mérési jegyzőkönyv tartalma.md",
