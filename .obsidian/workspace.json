@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "KRESZ/1. Közlekedési alapismeretek/1.3. Felkészülés az elindulásra.md",
+                "file": "KRESZ/1. Közlekedési alapismeretek/1.4. Elindulás, becsatlakozás a forgalomba.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "1.3. Felkészülés az elindulásra"
+              "title": "1.4. Elindulás, becsatlakozás a forgalomba"
             }
           }
         ]
@@ -78,7 +78,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "2cb82efc64c1ecb6",
@@ -110,13 +111,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "KRESZ/1. Közlekedési alapismeretek/1.3. Felkészülés az elindulásra.md",
+                "file": "KRESZ/1. Közlekedési alapismeretek/1.4. Elindulás, becsatlakozás a forgalomba.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of 1.3. Felkészülés az elindulásra"
+              "title": "Outline of 1.4. Elindulás, becsatlakozás a forgalomba"
             }
           },
           {
@@ -202,30 +203,31 @@
   },
   "active": "d5e35b8fb6c79417",
   "lastOpenFiles": [
-    "KRESZ/_img/1.3-automata_jogositvany.png",
-    "KRESZ/_img/1.3-uzemmod_valaszto_kar.png",
-    "KRESZ/_img/1.3-sebessegvalto_kar_5.png",
-    "KRESZ/_img/1.3-sebessegvalto_kar_4.png",
-    "KRESZ/_img/1.3-sebessegvalto_kar_3.png",
-    "KRESZ/_img/Screenshot 2025-11-02 190637.png",
-    "KRESZ/_img/Screenshot 2025-11-02 190627.png",
-    "KRESZ/_img/Screenshot 2025-11-02 190643.png",
-    "KRESZ/_img/1.3-sebessegvalto_kar_2.png",
-    "KRESZ/_img/Screenshot 2025-11-02 190148.png",
-    "KRESZ/_img/1.3-sebessegvalto_kar_1.png",
-    "KRESZ/_img/1.3-gyujtaskapcsolo_hasznalata.mp4",
-    "KRESZ/_img/1.3-tengelykapcsolo.mp4",
-    "KRESZ/_img/1.3-kezifek_szerkezete.mp4",
+    "KRESZ/_img/1.4-elindulas_segitese_lakott_kivul.mp4",
+    "KRESZ/_img/Screen Recording 2025-11-13 155837 - Trim.mp4",
+    "KRESZ/_img/1.4-elindulas_segitese_lakott.mp4",
+    "KRESZ/_img/Screen Recording 2025-11-13 155759 - Trim.mp4",
+    "KRESZ/_img/1.4-becsatlakozas.mp4",
+    "KRESZ/_img/Screen Recording 2025-11-13 155445 - Trim.mp4",
+    "KRESZ/_img/1.4-elsobbsegadas_elindulaskor_2.png",
+    "KRESZ/_img/Screenshot 2025-11-13 170154.png",
+    "KRESZ/_img/1.4-elsobbsegadas_elindulaskor_1.png",
+    "KRESZ/_img/Screenshot 2025-11-13 170119.png",
+    "KRESZ/_img/1.4-elsobbseg_gyalogos.mp4",
+    "KRESZ/_img/Screen Recording 2025-11-13 155340 - Trim.mp4",
+    "KRESZ/_img/1.4-elsobbseg_jarmu.mp4",
+    "KRESZ/_img/Screen Recording 2025-11-13 155305 - Trim.mp4",
+    "KRESZ/_img/1.4-zavaras.png",
+    "KRESZ/_img/Screenshot 2025-11-13 164727.png",
+    "KRESZ/_img/1.4-akadalyozas.png",
+    "KRESZ/_img/Screenshot 2025-11-13 164527.png",
+    "KRESZ/_img/1.4-veszelyeztetes.png",
+    "KRESZ/_img/Screenshot 2025-11-13 164331.png",
+    "KRESZ/_img/1.4-balesetelkerules.mp4",
+    "KRESZ/1. Közlekedési alapismeretek/1.3. Felkészülés az elindulásra.md",
+    "KRESZ/1. Közlekedési alapismeretek/1.4. Elindulás, becsatlakozás a forgalomba.md",
     "KRESZ/1. Közlekedési alapismeretek/1.2. Ismerkedés az autóval.md",
     "KRESZ/1. Közlekedési alapismeretek/1.1. A jármű és a vezetője.md",
-    "KRESZ/_img/Recording 2025-11-01 134720.mp4",
-    "KRESZ/_img/Recording 2025-11-01 134532.mp4",
-    "KRESZ/_img/Recording 2025-11-01 134128.mp4",
-    "KRESZ/1. Közlekedési alapismeretek/1.3. Felkészülés az elindulásra.md",
-    "KRESZ/_img/1.3-iranyjelzo_jelzo.mp4",
-    "KRESZ/_img/Recording 2025-11-01 132853.mp4",
-    "KRESZ/_img/Recording 2025-11-01 132119.mp4",
-    "KRESZ/_img/1.2-kormanyfogas_kanyarodaskor.mp4",
     "Fizika/Rezgőmozgás/02. Harmonikus rezgőmozgás dinamikai leírása.md",
     "Fizika/Rezgőmozgás/01. Harmonikus rezgőmozgás kinematikai leírása.md",
     "Fizika/Rezgőmozgás/04. Mérési jegyzőkönyv tartalma.md",
@@ -247,7 +249,6 @@
     "Untitled.md",
     "Fizika/Halmazállapot változások/Untitled.md",
     "2025-09-24.md",
-    "Angol/Speaking/Texts/04. 8 tips on how to spot fake news.md",
     "Untitled.canvas"
   ]
 }
