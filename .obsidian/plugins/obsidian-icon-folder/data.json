@@ -6,11 +6,11 @@
     "emojiStyle": "native",
     "iconColor": null,
     "recentlyUsedIcons": [
+      "LiBook",
       "LiHistory",
       "📖",
       "🪴",
-      "LiCalculator",
-      "LiBookA"
+      "LiCalculator"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
@@ -37,5 +37,6 @@
   "KRESZ": "LiCar",
   "Angol": "LiBookA",
   "Fizika": "LiCalculator",
-  "Történelem": "LiHistory"
+  "Történelem": "LiHistory",
+  "Irodalom": "LiBook"
 }
