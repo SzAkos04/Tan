@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "KRESZ/2. Rend az utakon/2.2. Jelzőlámpák.md",
+                "file": "Biológia/Érzékelés/02. Bőrérzékelés.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2.2. Jelzőlámpák"
+              "title": "02. Bőrérzékelés"
             }
           }
         ]
@@ -78,8 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "2cb82efc64c1ecb6",
@@ -126,7 +125,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "KRESZ/2. Rend az utakon/2.2. Jelzőlámpák.md",
+                "file": "Biológia/Érzékelés/02. Bőrérzékelés.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -136,7 +135,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for 2.2. Jelzőlámpák"
+              "title": "Backlinks for 02. Bőrérzékelés"
             }
           },
           {
@@ -203,28 +202,38 @@
   },
   "active": "e4a7b569558f1567",
   "lastOpenFiles": [
-    "KRESZ/_img/2.2. Jelzőlámpák/2.2-ketlencses_jarmuforgalmat_iranyito_fenyjelzo_keszulek3.png",
-    "KRESZ/_img/2.2. Jelzőlámpák/2.2-ketlencses_jarmuforgalmat_iranyito_fenyjelzo_keszulek2.png",
-    "KRESZ/_img/2.2. Jelzőlámpák/2.2-ketlencses_jarmuforgalmat_iranyito_fenyjelzo_keszulek1.png",
-    "KRESZ/_img/2.2. Jelzőlámpák/2.2-ketlencses_jarmuforgalmat_iranyito_fenyjelzo_keszulek (3).png",
-    "KRESZ/_img/2.2. Jelzőlámpák/2.2-ketlencses_jarmuforgalmat_iranyito_fenyjelzo_keszulek (2).png",
-    "KRESZ/_img/2.2. Jelzőlámpák/2.2-ketlencses_jarmuforgalmat_iranyito_fenyjelzo_keszulek (1).png",
-    "KRESZ/_img/2.2. Jelzőlámpák/Screenshot 2025-12-04 201751.png",
-    "KRESZ/_img/2.2. Jelzőlámpák/Screenshot 2025-12-04 201743.png",
-    "KRESZ/_img/2.2. Jelzőlámpák/Screenshot 2025-12-04 201801.png",
-    "KRESZ/_img/2.2. Jelzőlámpák/2.2-ajanlott_sebesseg_jelzes2.png",
-    "KRESZ/_img/2.2. Jelzőlámpák/2.2-ajanlott_sebesseg_jelzes1.png",
+    "Biológia/Érzékelés/01. Érzékelés.md",
+    "KRESZ/2. Rend az utakon/2.3. Jobbra bekanyarodás.md",
+    "Matematika/Hatványozás, azonosságai.md",
+    "Matematika",
+    "Biológia/Érzékelés/_img/szemgolyo.jpg",
+    "Biológia/Érzékelés/_img/szaglas.jpg",
+    "Biológia/Érzékelés/_img/izleles2.jpg",
+    "Biológia/Érzékelés/_img/egyensulyozas.jpeg",
+    "Biológia/Érzékelés/_img/izleles1.jpg",
+    "Biológia/Érzékelés/_img/hallas2.jpg",
+    "Biológia/Érzékelés/_img/hallas1.jpg",
+    "Biológia/Érzékelés/_img/bor2.jpg",
+    "Biológia/Érzékelés/_img/bor1.jpg",
+    "Biológia/Érzékelés/_img",
+    "Biológia/Érzékelés/04. Szaglás, ízlelés.md",
+    "Biológia/Érzékelés/07. Látás.md",
+    "Biológia/Érzékelés/06. Egyensúlyozó szerv.md",
+    "Biológia/Érzékelés/05. Hallás.md",
+    "Biológia/Érzékelés/02. Bőrérzékelés.md",
+    "Biológia/Érzékelés/03. Limbikus rendszer.md",
+    "Biológia/Érzékelés",
+    "Biológia",
+    "KRESZ/2. Rend az utakon/2.2. Jelzőlámpák.md",
+    "Történelem/Kiegyezés.md",
+    "KRESZ/_img/2.3. Jobbra bekanyarodás/2.3-a_bekanyarodas_alapszabalya.png",
+    "KRESZ/_img/2.3. Jobbra bekanyarodás",
     "KRESZ/_img/2.2. Jelzőlámpák/2.2-elhelyezes_es_ervenyesseg5.mp4",
     "KRESZ/_img/2.2. Jelzőlámpák",
     "KRESZ/_img/2.1. Útkereszteződések",
     "KRESZ/_img/1.7. Sebesség, megállás",
     "KRESZ/_img/1.6. Utak és közlekedési jelzések",
-    "KRESZ/_img/1.5. Haladás az úton",
-    "KRESZ/_img/1.4. Elindulás, becsatlakozás a forgalomba",
-    "KRESZ/_img/1.3. Felkészülés az elindulásra",
-    "KRESZ/_img/1.2. Ismerkedés az autóval",
     "KRESZ/2. Rend az utakon/2.1. Útkereszteződések.md",
-    "KRESZ/_img/1.1. A jármű és a vezetője",
     "KRESZ/1. Közlekedési alapismeretek/1.4. Elindulás, becsatlakozás a forgalomba.md",
     "KRESZ/1. Közlekedési alapismeretek/1.7. Sebesség, megállás.md",
     "KRESZ/1. Közlekedési alapismeretek/1.6. Utak és közlekedési jelzések.md",
@@ -238,17 +247,6 @@
     "Fizika/Rezgőmozgás/03. Matematikai inga rezgésideje.md",
     "Fizika/Rezgőmozgás/09. Csatolt rezgés, csatolt ingák.md",
     "Fizika/Rezgőmozgás/06. Fizikai inga.md",
-    "Fizika/Rezgőmozgás/05. Matematikai inga gyorsuló közegben.md",
-    "Fizika/Rezgőmozgás/08. Kényszerrezgés.md",
-    "Fizika/Rezgőmozgás/07. Csillapítatlan, csillapodó rezgőmozgás.md",
-    "Angol/Grammar/Advanced/1A - have.md",
-    "Angol/Grammar/Advanced/1B - linkers.md",
-    "Fizika/Halmazállapot változások/04. Telített, telítetlen állapot.md",
-    "Fizika/Halmazállapot változások/03. Párolgás.md",
-    "Fizika/Halmazállapot változások/02. Forrás.md",
-    "Fizika/Halmazállapot változások/01. Átalakulási hő.md",
-    "Fizika/Halmazállapot változások/05. Hő terjedési fajtái.md",
-    "Biológia/Érzékelés/02. Bőrérzékelés.md",
     "Untitled.canvas"
   ]
 }
