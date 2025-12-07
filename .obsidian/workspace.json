@@ -11,14 +11,12 @@
             "id": "c0652e8051cbf8a1",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "pdf",
               "state": {
-                "file": "Irodalom/Arany János.md",
-                "mode": "source",
-                "source": false
+                "file": "Matematika/Matematika emelt szintű érettségi témakörök.pdf"
               },
-              "icon": "lucide-file",
-              "title": "Arany János"
+              "icon": "lucide-file-text",
+              "title": "Matematika emelt szintű érettségi témakörök"
             }
           }
         ]
@@ -110,13 +108,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Irodalom/Arany János.md",
+                "file": "Matematika/Matematika emelt szintű érettségi témakörök.pdf",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Arany János"
+              "title": "Outline of Matematika emelt szintű érettségi témakörök"
             }
           },
           {
@@ -200,15 +198,16 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "c0652e8051cbf8a1",
+  "active": "2872af3a65a336f0",
   "lastOpenFiles": [
-    "Történelem/Kiegyezés.md",
+    "Matematika/Hatványozás, azonosságai.md",
+    "Matematika/Matematika emelt szintű érettségi témakörök.pdf",
     "Irodalom/Arany János.md",
+    "Történelem/Kiegyezés.md",
     "Irodalom",
     "Biológia/Érzékelés/02. Bőrérzékelés.md",
     "Biológia/Érzékelés/01. Érzékelés.md",
     "KRESZ/2. Rend az utakon/2.3. Jobbra bekanyarodás.md",
-    "Matematika/Hatványozás, azonosságai.md",
     "Matematika",
     "Biológia/Érzékelés/_img/szemgolyo.jpg",
     "Biológia/Érzékelés/_img/szaglas.jpg",
@@ -233,7 +232,6 @@
     "KRESZ/_img/2.2. Jelzőlámpák/2.2-elhelyezes_es_ervenyesseg5.mp4",
     "KRESZ/_img/2.2. Jelzőlámpák",
     "KRESZ/_img/2.1. Útkereszteződések",
-    "KRESZ/_img/1.7. Sebesség, megállás",
     "KRESZ/2. Rend az utakon/2.1. Útkereszteződések.md",
     "KRESZ/1. Közlekedési alapismeretek/1.4. Elindulás, becsatlakozás a forgalomba.md",
     "KRESZ/1. Közlekedési alapismeretek/1.7. Sebesség, megállás.md",
@@ -247,7 +245,6 @@
     "Fizika/Rezgőmozgás/04. Mérési jegyzőkönyv tartalma.md",
     "Fizika/Rezgőmozgás/03. Matematikai inga rezgésideje.md",
     "Fizika/Rezgőmozgás/09. Csatolt rezgés, csatolt ingák.md",
-    "Fizika/Rezgőmozgás/06. Fizikai inga.md",
     "Untitled.canvas"
   ]
 }

@@ -38,5 +38,6 @@
   "Angol": "LiBookA",
   "Fizika": "LiCalculator",
   "Történelem": "LiHistory",
-  "Irodalom": "LiBook"
+  "Irodalom": "LiBook",
+  "Matematika": "LiCalculator"
 }
