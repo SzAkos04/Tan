@@ -4,19 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "f6b032fa4698a1b7",
+        "id": "1c69b9dc6999245e",
         "type": "tabs",
         "children": [
           {
-            "id": "c0652e8051cbf8a1",
+            "id": "9ea8d42591ace780",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "Matematika/Matematika emelt szintű érettségi témakörök.pdf"
+                "file": "KRESZ/2. Rend az utakon/2.4. Balra bekanyarodás, megfordulás, tolatás.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-file-text",
-              "title": "Matematika emelt szintű érettségi témakörök"
+              "icon": "lucide-file",
+              "title": "2.4. Balra bekanyarodás, megfordulás, tolatás"
             }
           }
         ]
@@ -76,7 +78,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "2cb82efc64c1ecb6",
@@ -108,13 +111,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Matematika/Matematika emelt szintű érettségi témakörök.pdf",
+                "file": "KRESZ/2. Rend az utakon/2.4. Balra bekanyarodás, megfordulás, tolatás.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Matematika emelt szintű érettségi témakörök"
+              "title": "Outline of 2.4. Balra bekanyarodás, megfordulás, tolatás"
             }
           },
           {
@@ -198,40 +201,42 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "2872af3a65a336f0",
+  "active": "9ea8d42591ace780",
   "lastOpenFiles": [
-    "Matematika/Hatványozás, azonosságai.md",
-    "Matematika/Matematika emelt szintű érettségi témakörök.pdf",
+    "KRESZ/_img/2.4. Balra bekanyarodás, megfordulás, tolatás/2.4-hatramenet2.png",
+    "KRESZ/_img/2.4. Balra bekanyarodás, megfordulás, tolatás/Screenshot 2025-12-10 142946.png",
+    "KRESZ/_img/2.4. Balra bekanyarodás, megfordulás, tolatás/2.4_hatramenet1.png",
+    "KRESZ/_img/2.4. Balra bekanyarodás, megfordulás, tolatás/Screenshot 2025-12-10 142923.png",
+    "KRESZ/_img/2.4. Balra bekanyarodás, megfordulás, tolatás/2.4-y-fordulo.mp4",
+    "KRESZ/_img/2.4. Balra bekanyarodás, megfordulás, tolatás/2.4-megfordulas_egy_iven.mp4",
+    "KRESZ/_img/2.4. Balra bekanyarodás, megfordulás, tolatás/2.4-tilos_megfordulni_es_hatramenetet_vegezni_is4.png",
+    "KRESZ/_img/2.4. Balra bekanyarodás, megfordulás, tolatás/2.4-tilos_megfordulni_es_hatramenetet_vegezni_is3.png",
+    "KRESZ/_img/2.4. Balra bekanyarodás, megfordulás, tolatás/2.4-tilos_megfordulni_es_hatramenetet_vegezni_is2.png",
+    "KRESZ/_img/2.4. Balra bekanyarodás, megfordulás, tolatás/2.4-tilos_megfordulni_es_hatramenetet_vegezni_is1.png",
+    "KRESZ/_img/2.4. Balra bekanyarodás, megfordulás, tolatás/2.4-tilos_megfordulni_es_hatramenetet_vegezni_is (4).png",
+    "KRESZ/_img/2.4. Balra bekanyarodás, megfordulás, tolatás/2.4-tilos_megfordulni_es_hatramenetet_vegezni_is (3).png",
+    "KRESZ/_img/2.4. Balra bekanyarodás, megfordulás, tolatás/2.4-tilos_megfordulni_es_hatramenetet_vegezni_is (2).png",
+    "KRESZ/2. Rend az utakon/2.4. Balra bekanyarodás, megfordulás, tolatás.md",
+    "KRESZ/_img/2.4. Balra bekanyarodás, megfordulás, tolatás/2.4-balra_bekanyarodas_lepesei.mp4",
+    "KRESZ/_img/2.4. Balra bekanyarodás, megfordulás, tolatás/Screen Recording 2025-12-04 203056.mp4",
+    "KRESZ/_img/2.4. Balra bekanyarodás, megfordulás, tolatás",
+    "Untitled",
+    "KRESZ/2. Rend az utakon/2.3. Jobbra bekanyarodás.md",
+    "KRESZ/_img/2.3. Jobbra bekanyarodás/2.3-jobbra_kanyorados_nyilt_villamospalyaval_ellatott_uttesten.mp4",
+    "KRESZ/_img/2.3. Jobbra bekanyarodás/Recording 2025-12-07 120309.mp4",
+    "KRESZ/_img/2.3. Jobbra bekanyarodás/2.3-a_kanyarodas_gyakorlati_kivitelezese.mp4",
+    "KRESZ/_img/2.3. Jobbra bekanyarodás/Screen Recording 2025-11-30 141555.mp4",
     "Irodalom/Arany János.md",
+    "Matematika/Hatványozás, azonosságai.md",
     "Történelem/Kiegyezés.md",
-    "Irodalom",
     "Biológia/Érzékelés/02. Bőrérzékelés.md",
     "Biológia/Érzékelés/01. Érzékelés.md",
-    "KRESZ/2. Rend az utakon/2.3. Jobbra bekanyarodás.md",
-    "Matematika",
-    "Biológia/Érzékelés/_img/szemgolyo.jpg",
-    "Biológia/Érzékelés/_img/szaglas.jpg",
-    "Biológia/Érzékelés/_img/izleles2.jpg",
-    "Biológia/Érzékelés/_img/egyensulyozas.jpeg",
-    "Biológia/Érzékelés/_img/izleles1.jpg",
-    "Biológia/Érzékelés/_img/hallas2.jpg",
-    "Biológia/Érzékelés/_img/hallas1.jpg",
-    "Biológia/Érzékelés/_img/bor2.jpg",
-    "Biológia/Érzékelés/_img/bor1.jpg",
-    "Biológia/Érzékelés/_img",
     "Biológia/Érzékelés/04. Szaglás, ízlelés.md",
     "Biológia/Érzékelés/07. Látás.md",
     "Biológia/Érzékelés/06. Egyensúlyozó szerv.md",
     "Biológia/Érzékelés/05. Hallás.md",
     "Biológia/Érzékelés/03. Limbikus rendszer.md",
-    "Biológia/Érzékelés",
-    "Biológia",
     "KRESZ/2. Rend az utakon/2.2. Jelzőlámpák.md",
-    "KRESZ/_img/2.3. Jobbra bekanyarodás/2.3-a_bekanyarodas_alapszabalya.png",
-    "KRESZ/_img/2.3. Jobbra bekanyarodás",
-    "KRESZ/_img/2.2. Jelzőlámpák/2.2-elhelyezes_es_ervenyesseg5.mp4",
-    "KRESZ/_img/2.2. Jelzőlámpák",
-    "KRESZ/_img/2.1. Útkereszteződések",
     "KRESZ/2. Rend az utakon/2.1. Útkereszteződések.md",
     "KRESZ/1. Közlekedési alapismeretek/1.4. Elindulás, becsatlakozás a forgalomba.md",
     "KRESZ/1. Közlekedési alapismeretek/1.7. Sebesség, megállás.md",
@@ -244,7 +249,6 @@
     "Fizika/Rezgőmozgás/01. Harmonikus rezgőmozgás kinematikai leírása.md",
     "Fizika/Rezgőmozgás/04. Mérési jegyzőkönyv tartalma.md",
     "Fizika/Rezgőmozgás/03. Matematikai inga rezgésideje.md",
-    "Fizika/Rezgőmozgás/09. Csatolt rezgés, csatolt ingák.md",
     "Untitled.canvas"
   ]
 }
