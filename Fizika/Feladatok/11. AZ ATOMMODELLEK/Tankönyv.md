@@ -4,7 +4,7 @@ oldal: 265-267
 
 # TESZTKÉRDÉSEK
 
-## 1. A Thomson-féle „mazsolás puding” modell első cáfolatai közé tartozott az, amikor Philip Lenard katódsugarakkal kísérletezve észrevett egy jelenséget, ami a Thomson-modell jóslataival nem volt összeegyeztethető. Mit vehetett észre Lenard?
+## 1. A Thomson-féle "mazsolás puding" modell első cáfolatai közé tartozott az, amikor Philip Lenard katódsugarakkal kísérletezve észrevett egy jelenséget, ami a Thomson-modell jóslataival nem volt összeegyeztethető. Mit vehetett észre Lenard?
 
 A) A katódsugarak visszapattannak egy, a katódsugárzás útjába tett vékony fémfóliáról.
 B) A katódsugarak szinte akadály nélkül haladnak át egy, a katódsugárzás útjába tett vékony fémfólián.
@@ -435,7 +435,7 @@ Protonok száma: $z_{\text{p}^+} = \dfrac{m}{m_{\text{p}^+}} = 2.8 \approx 3 \; 
 
 ### Levezetés
 
-Körpálya $\Rightarrow \; \sum F = 0$
+Körpálya $\Rightarrow \; \sum{F} = 0$
 
 $$
 F_\text{cp} = F_\text{L}
