@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Fizika/Hullámok/01. Hullámok.md",
+                "file": "Fizika/Feladatok/11. AZ ATOMMODELLEK/Tankönyv.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "01. Hullámok"
+              "title": "Tankönyv"
             }
           }
         ]
@@ -110,13 +110,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Fizika/Hullámok/01. Hullámok.md",
+                "file": "Fizika/Feladatok/11. AZ ATOMMODELLEK/Tankönyv.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of 01. Hullámok"
+              "title": "Outline of Tankönyv"
             }
           },
           {
@@ -197,11 +197,20 @@
       "command-palette:Open command palette": false,
       "obsidian-git:Open Git source control": false,
       "templater-obsidian:Templater": false,
-      "table-editor-obsidian:Advanced Tables Toolbar": false
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "obsidian-excalidraw-plugin:New drawing": false
     }
   },
   "active": "0918924ba549af90",
   "lastOpenFiles": [
+    "Fizika/Feladatok/11. AZ ATOMMODELLEK/Feladatgyűjtemény.md",
+    "_templates/Angol.md",
+    "Fizika/Hullámok/01. Hullámok.md",
+    "Untitled",
+    "Excalidraw/Drawing 2026-01-26 20.42.03.excalidraw.md",
+    "Fizika/Hullámok/Feladat megoldások.md",
+    "Excalidraw/Drawing 2026-01-24 23.56.59.excalidraw.md",
+    "Excalidraw",
     "Fizika/Halmazállapot változások/02. Forrás.md",
     "Fizika/Hullámok/06. Fényelhajlás.md",
     "Fizika/Hullámok/07. Doppler-effektus.md",
@@ -209,7 +218,6 @@
     "Fizika/Hullámok/04. Polarizáció.md",
     "Fizika/Hullámok/03. Hullámok törése.md",
     "Fizika/Hullámok/02. Hullámok visszaverődése.md",
-    "Fizika/Hullámok/01. Hullámok.md",
     "Fizika/Hullámok/Untitled",
     "Fizika/Hullámok/_img/transzverzalis_sikhullam.gif",
     "Fizika/Hullámok/_img/longitudinalis_sikhullam.gif",
@@ -233,9 +241,7 @@
     "KRESZ/_img/2.6. Egyirányú út, körforgalom, kanyarodó főútvonal, zsákutca/2.6-tobbsavos_korforgalom_tajekoztato (2).png",
     "KRESZ/_img/2.6. Egyirányú út, körforgalom, kanyarodó főútvonal, zsákutca/2.6-tobbsavos_korforgalom_tajekoztato (1).png",
     "KRESZ/_img/2.6. Egyirányú út, körforgalom, kanyarodó főútvonal, zsákutca/2.6-korforgalom_kozlekedes.mp4",
-    "KRESZ/_img/2.6. Egyirányú út, körforgalom, kanyarodó főútvonal, zsákutca",
     "KRESZ/2. Rend az utakon/2.5. Párhuzamos közlekedés.md",
-    "KRESZ/_img/2.5. Párhuzamos közlekedés/2.5-utszukulet7.mp4",
     "KRESZ/2. Rend az utakon/2.4. Balra bekanyarodás, megfordulás, tolatás.md",
     "Irodalom/Arany János.md",
     "KRESZ/2. Rend az utakon/2.3. Jobbra bekanyarodás.md",
@@ -243,11 +249,6 @@
     "Történelem/Kiegyezés.md",
     "Biológia/Érzékelés/02. Bőrérzékelés.md",
     "Biológia/Érzékelés/01. Érzékelés.md",
-    "Biológia/Érzékelés/04. Szaglás, ízlelés.md",
-    "Biológia/Érzékelés/07. Látás.md",
-    "Biológia/Érzékelés/06. Egyensúlyozó szerv.md",
-    "Biológia/Érzékelés/05. Hallás.md",
-    "Biológia/Érzékelés/03. Limbikus rendszer.md",
     "Untitled.canvas"
   ]
 }
