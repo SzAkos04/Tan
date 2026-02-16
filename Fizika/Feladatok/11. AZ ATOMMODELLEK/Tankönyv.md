@@ -256,7 +256,7 @@ $$
 
 ### Levezetés
 
-Bohr-modellben az $n$-edik pályán keringő atom sebessége $v_n = \dfrac{v_0}{n}$, ahol $v_0 = 2.19 \cdot 10^{6} \ \dfrac{\text{m}}{\text{s}}$ (lásd: [[Tankönyv#6. Mekkora az alapállapotban keringő elektron sebessége és mozgási energiája a hidrogénatomban?|6. feladat]])
+Bohr-modellben az $n$-edik pályán keringő atom sebessége $v_n = \dfrac{v_0}{n}$, ahol $v_0 = 2.19 \cdot 10^{6} \ \dfrac{\text{m}}{\text{s}}$ (lásd: [[Fizika/Feladatok/11. AZ ATOMMODELLEK/Tankönyv#6. Mekkora az alapállapotban keringő elektron sebessége és mozgási energiája a hidrogénatomban?|6. feladat]])
 
 $$
 v_\text{sz} = \dfrac{v_0}{n} \; \Rightarrow \; \boxed{n = \dfrac{v_0}{v_\text{sz}} = 195.5 \approx 196}
@@ -264,7 +264,7 @@ $$
 
 ---
 
-## 8. A körpályán keringő elektron köráramot hoz létre. Mekkora a köráram erőssége alapállapotban? Adatok: $r_0 = 53 \ \text{pm}$, $v = 2,25 \cdot 10^6 \ \dfrac{\text{m}}{\text{s}}$. (Lásd a [[Tankönyv#6. Mekkora az alapállapotban keringő elektron sebessége és mozgási energiája a hidrogénatomban?|6. feladatot]]!)
+## 8. A körpályán keringő elektron köráramot hoz létre. Mekkora a köráram erőssége alapállapotban? Adatok: $r_0 = 53 \ \text{pm}$, $v = 2,25 \cdot 10^6 \ \dfrac{\text{m}}{\text{s}}$. (Lásd a [[Fizika/Feladatok/11. AZ ATOMMODELLEK/Tankönyv#6. Mekkora az alapállapotban keringő elektron sebessége és mozgási energiája a hidrogénatomban?|6. feladatot]]!)
 
 ### Levezetés
 

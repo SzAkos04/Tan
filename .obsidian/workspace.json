@@ -11,13 +11,46 @@
             "id": "9ea8d42591ace780",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Fizika/Feladatok/10. ATOMFIZIKA/Tankönyv.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "Tankönyv"
+            }
+          },
+          {
+            "id": "1a9179d40b6e40bf",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Fizika/Feladatok/10. ATOMFIZIKA/Tankönyv.md",
+                "mode": "preview",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Tankönyv"
+            }
+          },
+          {
+            "id": "c0d27d6504b97ad8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Fizika/Feladatok/11. AZ ATOMMODELLEK/Tankönyv.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Tankönyv"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -74,7 +107,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 297.00271224975586,
+    "collapsed": true
   },
   "right": {
     "id": "2cb82efc64c1ecb6",
@@ -106,12 +140,13 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "Fizika/Feladatok/10. ATOMFIZIKA/Tankönyv.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline"
+              "title": "Outline of Tankönyv"
             }
           },
           {
@@ -139,11 +174,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Fizika/Feladatok/10. ATOMFIZIKA/Tankönyv.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links"
+              "title": "Outgoing links from Tankönyv"
             }
           },
           {
@@ -181,6 +217,7 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "obsidian-excalidraw-plugin:New drawing": false,
       "bases:Create new base": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
@@ -193,8 +230,17 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "2872af3a65a336f0",
+  "active": "1a9179d40b6e40bf",
   "lastOpenFiles": [
+    "Excalidraw/millican.md",
+    "Fizika/Feladatok/10. ATOMFIZIKA/Tankönyv.md",
+    "Excalidraw",
+    "Fizika/Feladatok/11. AZ ATOMMODELLEK/Tankönyv.md",
+    "Fizika/Feladatok/10. ATOMFIZIKA/_img/TK.242.24.png",
+    "Fizika/Feladatok/10. ATOMFIZIKA/_img/Screenshot 2026-02-16 at 18.00.21.png",
+    "Fizika/Feladatok/10. ATOMFIZIKA/_img",
+    "Fizika/Feladatok/10. ATOMFIZIKA",
+    "Fizika/Feladatok/11. AZ ATOMMODELLEK/Feladatgyűjtemény.md",
     "KRESZ/2. Rend az utakon/2.6. Egyirányú út, körforgalom, kanyarodó főútvonal, zsákutca.md",
     "Matematika/Emelt szintű érettségi témakörök/25. Bizonyítási módszerek és bemutatásuk tételek bizonyításában.pdf",
     "Matematika/Emelt szintű érettségi témakörök/24. Permutációk, variációk. A binomiális eloszlás. A valószínűség kiszámításának geometriai modellje.pdf",
@@ -203,9 +249,6 @@
     "Matematika/Emelt szintű érettségi témakörök/21. Térelemek távolsága és szöge. Térbeli alakzatok. Felszín- és térfogatszámítás.pdf",
     "Matematika/Emelt szintű érettségi témakörök/20. A kör és a parabola elemi úton és a koordinátasíkon. Kör és egyenes, parabola és egyenes kölcsönös helyzete. Másodfokú egyenlőtlenségek grafikus megoldása.pdf",
     "Matematika/Emelt szintű érettségi témakörök/19. Szakaszok és egyenesek a koordinátasíkon. Párhuzamos és merőleges egyenesek. Elsőfokú egyenlőtlenségek, egyenletrendszerek grafikus megoldása.pdf",
-    "Matematika/Emelt szintű érettségi témakörök/18. Vektorok, vektorműveletek. Vektorfelbontási tétel. Vektorok koordinátái. Skaláris szorzat.pdf",
-    "Matematika/Emelt szintű érettségi témakörök/17. A kör és részei. Kerületi szög, középponti szög, látószög. Húrnégyszögek, érintőnégyszögek.pdf",
-    "Matematika/Emelt szintű érettségi témakörök/16. Konvex sokszögek tulajdonságai. Szabályos sokszögek. Gráfok.pdf",
     "Fizika/Hullámok/_img/transzverzalis_sikhullam.gif",
     "Fizika/Hullámok/_img/longitudinalis_sikhullam.gif",
     "Fizika/Hullámok/07. Doppler-effektus.md",
@@ -218,15 +261,11 @@
     "Fizika/Feladatok/11. AZ ATOMMODELLEK/_img/TK.266.4.png",
     "Fizika/Feladatok/11. AZ ATOMMODELLEK/_img/TK.265.4.png",
     "Fizika/Feladatok/11. AZ ATOMMODELLEK/_img/TK.265.3.png",
-    "Fizika/Feladatok/11. AZ ATOMMODELLEK/Tankönyv.md",
-    "Fizika/Feladatok/11. AZ ATOMMODELLEK/Feladatgyűjtemény.md",
     "KRESZ/2. Rend az utakon/2.7. Megállás, várakozás (parkolás).md",
     "Irodalom/Arany János.md",
     "KRESZ/_img/2.6. Egyirányú út, körforgalom, kanyarodó főútvonal, zsákutca/2.6-korforgalom_tilalmak.png",
     "KRESZ/_img/2.6. Egyirányú út, körforgalom, kanyarodó főútvonal, zsákutca/Screenshot 2025-12-22 232418.png",
     "KRESZ/_img/2.6. Egyirányú út, körforgalom, kanyarodó főútvonal, zsákutca/2.6-tobbsavos_korforgalom_tajekoztato2.png",
-    "KRESZ/_img/2.6. Egyirányú út, körforgalom, kanyarodó főútvonal, zsákutca/2.6-tobbsavos_korforgalom_tajekoztato1.png",
-    "KRESZ/_img/2.6. Egyirányú út, körforgalom, kanyarodó főútvonal, zsákutca/2.6-tobbsavos_korforgalom_tajekoztato (2).png",
     "KRESZ/2. Rend az utakon/2.5. Párhuzamos közlekedés.md",
     "KRESZ/2. Rend az utakon/2.4. Balra bekanyarodás, megfordulás, tolatás.md",
     "KRESZ/2. Rend az utakon/2.3. Jobbra bekanyarodás.md",
@@ -239,7 +278,6 @@
     "Biológia/Érzékelés/06. Egyensúlyozó szerv.md",
     "Biológia/Érzékelés/05. Hallás.md",
     "Biológia/Érzékelés/03. Limbikus rendszer.md",
-    "KRESZ/2. Rend az utakon/2.2. Jelzőlámpák.md",
     "Untitled.canvas"
   ]
 }
