@@ -4,19 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "8391c68a3fb34396",
+        "id": "1c69b9dc6999245e",
         "type": "tabs",
         "children": [
           {
-            "id": "0918924ba549af90",
+            "id": "9ea8d42591ace780",
             "type": "leaf",
             "state": {
-              "type": "pdf",
-              "state": {
-                "file": "Matematika/Emelt szintű érettségi témakörök/15. Egybevágósági transzformációk, alakzatok egybevágósága. Szimmetria. Hasonlósági transzformációk. asonló síkidomok kerülete, területe, hasonló testek felszíne, térfogata. ....pdf"
-              },
-              "icon": "lucide-file-text",
-              "title": "15. Egybevágósági transzformációk, alakzatok egybevágósága. Szimmetria. Hasonlósági transzformációk. asonló síkidomok kerülete, területe, hasonló testek felszíne, térfogata. ..."
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
             }
           }
         ]
@@ -108,13 +106,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Matematika/Emelt szintű érettségi témakörök/15. Egybevágósági transzformációk, alakzatok egybevágósága. Szimmetria. Hasonlósági transzformációk. asonló síkidomok kerülete, területe, hasonló testek felszíne, térfogata. ....pdf",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of 15. Egybevágósági transzformációk, alakzatok egybevágósága. Szimmetria. Hasonlósági transzformációk. asonló síkidomok kerülete, területe, hasonló testek felszíne, térfogata. ..."
+              "title": "Outline"
             }
           },
           {
@@ -142,12 +139,11 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Angol/Grammar/Advanced/3B - adverbs and adverbial expressions.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from 3B - adverbs and adverbial expressions"
+              "title": "Outgoing links"
             }
           },
           {
@@ -160,8 +156,7 @@
               "title": "Advanced Tables"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       },
       {
         "id": "0c810eb29c9863af",
@@ -195,12 +190,12 @@
       "command-palette:Open command palette": false,
       "obsidian-git:Open Git source control": false,
       "templater-obsidian:Templater": false,
-      "table-editor-obsidian:Advanced Tables Toolbar": false,
-      "obsidian-excalidraw-plugin:New drawing": false
+      "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "0918924ba549af90",
+  "active": "2872af3a65a336f0",
   "lastOpenFiles": [
+    "KRESZ/2. Rend az utakon/2.6. Egyirányú út, körforgalom, kanyarodó főútvonal, zsákutca.md",
     "Matematika/Emelt szintű érettségi témakörök/25. Bizonyítási módszerek és bemutatásuk tételek bizonyításában.pdf",
     "Matematika/Emelt szintű érettségi témakörök/24. Permutációk, variációk. A binomiális eloszlás. A valószínűség kiszámításának geometriai modellje.pdf",
     "Matematika/Emelt szintű érettségi témakörök/23. Kombinációk. Binomiális tétel, a Pascal-háromszög. A valószínűség kiszámításának kombinatorikus modellje. A hipergeometrikus eloszlás.pdf",
@@ -209,44 +204,42 @@
     "Matematika/Emelt szintű érettségi témakörök/20. A kör és a parabola elemi úton és a koordinátasíkon. Kör és egyenes, parabola és egyenes kölcsönös helyzete. Másodfokú egyenlőtlenségek grafikus megoldása.pdf",
     "Matematika/Emelt szintű érettségi témakörök/19. Szakaszok és egyenesek a koordinátasíkon. Párhuzamos és merőleges egyenesek. Elsőfokú egyenlőtlenségek, egyenletrendszerek grafikus megoldása.pdf",
     "Matematika/Emelt szintű érettségi témakörök/18. Vektorok, vektorműveletek. Vektorfelbontási tétel. Vektorok koordinátái. Skaláris szorzat.pdf",
-    "Matematika/Emelt szintű érettségi témakörök/15. Egybevágósági transzformációk, alakzatok egybevágósága. Szimmetria. Hasonlósági transzformációk. asonló síkidomok kerülete, területe, hasonló testek felszíne, térfogata. ....pdf",
+    "Matematika/Emelt szintű érettségi témakörök/17. A kör és részei. Kerületi szög, középponti szög, látószög. Húrnégyszögek, érintőnégyszögek.pdf",
     "Matematika/Emelt szintű érettségi témakörök/16. Konvex sokszögek tulajdonságai. Szabályos sokszögek. Gráfok.pdf",
-    "Matematika/Emelt szintű érettségi témakörök/13. Háromszögek nevezetes vonalai, pontjai és körei.pdf",
-    "Fizika/Feladatok/11. AZ ATOMMODELLEK/Tankönyv.md",
-    "Fizika/Rezgőmozgás/01. Harmonikus rezgőmozgás kinematikai leírása.md",
-    "Fizika/Feladatok/11. AZ ATOMMODELLEK/Feladatgyűjtemény.md",
-    "Angol/Grammar/Advanced/1A - have.md",
-    "Történelem/Kiegyezés.md",
-    "Irodalom/Arany János.md",
-    "_templates/Angol.md",
-    "Fizika/Hullámok/01. Hullámok.md",
-    "Excalidraw/Drawing 2026-01-26 20.42.03.excalidraw.md",
-    "Fizika/Hullámok/Feladat megoldások.md",
-    "Excalidraw/Drawing 2026-01-24 23.56.59.excalidraw.md",
-    "Fizika/Halmazállapot változások/02. Forrás.md",
-    "Fizika/Hullámok/06. Fényelhajlás.md",
+    "Fizika/Hullámok/_img/transzverzalis_sikhullam.gif",
+    "Fizika/Hullámok/_img/longitudinalis_sikhullam.gif",
     "Fizika/Hullámok/07. Doppler-effektus.md",
+    "Fizika/Hullámok/06. Fényelhajlás.md",
     "Fizika/Hullámok/05. Interferencia.md",
     "Fizika/Hullámok/04. Polarizáció.md",
     "Fizika/Hullámok/03. Hullámok törése.md",
     "Fizika/Hullámok/02. Hullámok visszaverődése.md",
-    "Fizika/Hullámok/_img/transzverzalis_sikhullam.gif",
-    "Fizika/Hullámok/_img/longitudinalis_sikhullam.gif",
-    "2026-01-24.md",
-    "Fizika/Rezgőmozgás/09. Csatolt rezgés, csatolt ingák.md",
-    "Fizika/Rezgőmozgás/_img/csatolt1.svg",
-    "Fizika/Rezgőmozgás/_img/at.svg",
-    "KRESZ/2. Rend az utakon/2.6. Egyirányú út, körforgalom, kanyarodó főútvonal, zsákutca.md",
+    "Fizika/Hullámok/01. Hullámok.md",
+    "Fizika/Feladatok/11. AZ ATOMMODELLEK/_img/TK.266.4.png",
+    "Fizika/Feladatok/11. AZ ATOMMODELLEK/_img/TK.265.4.png",
+    "Fizika/Feladatok/11. AZ ATOMMODELLEK/_img/TK.265.3.png",
+    "Fizika/Feladatok/11. AZ ATOMMODELLEK/Tankönyv.md",
+    "Fizika/Feladatok/11. AZ ATOMMODELLEK/Feladatgyűjtemény.md",
     "KRESZ/2. Rend az utakon/2.7. Megállás, várakozás (parkolás).md",
+    "Irodalom/Arany János.md",
     "KRESZ/_img/2.6. Egyirányú út, körforgalom, kanyarodó főútvonal, zsákutca/2.6-korforgalom_tilalmak.png",
     "KRESZ/_img/2.6. Egyirányú út, körforgalom, kanyarodó főútvonal, zsákutca/Screenshot 2025-12-22 232418.png",
     "KRESZ/_img/2.6. Egyirányú út, körforgalom, kanyarodó főútvonal, zsákutca/2.6-tobbsavos_korforgalom_tajekoztato2.png",
     "KRESZ/_img/2.6. Egyirányú út, körforgalom, kanyarodó főútvonal, zsákutca/2.6-tobbsavos_korforgalom_tajekoztato1.png",
     "KRESZ/_img/2.6. Egyirányú út, körforgalom, kanyarodó főútvonal, zsákutca/2.6-tobbsavos_korforgalom_tajekoztato (2).png",
-    "KRESZ/_img/2.6. Egyirányú út, körforgalom, kanyarodó főútvonal, zsákutca/2.6-tobbsavos_korforgalom_tajekoztato (1).png",
     "KRESZ/2. Rend az utakon/2.5. Párhuzamos közlekedés.md",
     "KRESZ/2. Rend az utakon/2.4. Balra bekanyarodás, megfordulás, tolatás.md",
     "KRESZ/2. Rend az utakon/2.3. Jobbra bekanyarodás.md",
+    "Matematika/Hatványozás, azonosságai.md",
+    "Történelem/Kiegyezés.md",
+    "Biológia/Érzékelés/02. Bőrérzékelés.md",
+    "Biológia/Érzékelés/01. Érzékelés.md",
+    "Biológia/Érzékelés/04. Szaglás, ízlelés.md",
+    "Biológia/Érzékelés/07. Látás.md",
+    "Biológia/Érzékelés/06. Egyensúlyozó szerv.md",
+    "Biológia/Érzékelés/05. Hallás.md",
+    "Biológia/Érzékelés/03. Limbikus rendszer.md",
+    "KRESZ/2. Rend az utakon/2.2. Jelzőlámpák.md",
     "Untitled.canvas"
   ]
 }
