@@ -14,7 +14,7 @@
               "type": "markdown",
               "state": {
                 "file": "Irodalom/Ady Endre szerelmi lírája.md",
-                "mode": "source",
+                "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
@@ -190,10 +190,15 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "0183b9417b614e5c",
+  "active": "5927e1f7f496c34b",
   "lastOpenFiles": [
-    "Fizika/Feladatok/11. AZ ATOMMODELLEK/Tankönyv.md",
+    "conflict-files-obsidian-git.md",
     "Irodalom/Ady Endre szerelmi lírája.md",
+    "Fizika/Feladatok/10. ATOMFIZIKA/_img/TK.242.24.png",
+    "Fizika/Feladatok/10. ATOMFIZIKA/_img",
+    "Fizika/Feladatok/10. ATOMFIZIKA/Tankönyv.md",
+    "Fizika/Feladatok/10. ATOMFIZIKA",
+    "Fizika/Feladatok/11. AZ ATOMMODELLEK/Tankönyv.md",
     "Történelem/Kiegyezés.md",
     "Matematika/Emelt szintű érettségi témakörök/01.md",
     "Matematika/Emelt szintű érettségi témakörök/25. Bizonyítási módszerek és bemutatásuk tételek bizonyításában.pdf",
@@ -204,8 +209,6 @@
     "Matematika/Emelt szintű érettségi témakörök/20. A kör és a parabola elemi úton és a koordinátasíkon. Kör és egyenes, parabola és egyenes kölcsönös helyzete. Másodfokú egyenlőtlenségek grafikus megoldása.pdf",
     "Matematika/Emelt szintű érettségi témakörök/19. Szakaszok és egyenesek a koordinátasíkon. Párhuzamos és merőleges egyenesek. Elsőfokú egyenlőtlenségek, egyenletrendszerek grafikus megoldása.pdf",
     "Matematika/Emelt szintű érettségi témakörök/18. Vektorok, vektorműveletek. Vektorfelbontási tétel. Vektorok koordinátái. Skaláris szorzat.pdf",
-    "Matematika/Emelt szintű érettségi témakörök/16. Konvex sokszögek tulajdonságai. Szabályos sokszögek. Gráfok.pdf",
-    "Matematika/Emelt szintű érettségi témakörök/17. A kör és részei. Kerületi szög, középponti szög, látószög. Húrnégyszögek, érintőnégyszögek.pdf",
     "Biológia/Érzékelés/_img/szemgolyo.jpg",
     "Biológia/Érzékelés/_img/szaglas.jpg",
     "Biológia/Érzékelés/_img/izleles2.jpg",
@@ -222,7 +225,6 @@
     "Biológia/Érzékelés/02. Bőrérzékelés.md",
     "Biológia/Érzékelés/03. Limbikus rendszer.md",
     "Biológia/Érzékelés/01. Érzékelés.md",
-    "Matematika/Emelt szintű érettségi témakörök/01. Halmazok, halmazmÅ±veletek. Nevezetes ponthalmazok a sÃ­kban Ã©s a tÃ©rben008.png",
     "Irodalom/Arany János.md",
     "Matematika/Emelt szintű érettségi témakörök/1. Halmazok, halmazmûveletek. Nevezetes ponthalmazok a síkban és a térben.md",
     "_templates/Matematika.md",
@@ -236,8 +238,6 @@
     "Excalidraw/Drawing 2026-01-24 23.56.59.excalidraw.md",
     "Fizika/Halmazállapot változások/02. Forrás.md",
     "Fizika/Hullámok/06. Fényelhajlás.md",
-    "Fizika/Hullámok/07. Doppler-effektus.md",
-    "Fizika/Hullámok/05. Interferencia.md",
     "Untitled.canvas"
   ]
 }

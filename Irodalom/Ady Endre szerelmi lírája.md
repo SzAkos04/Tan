@@ -26,7 +26,7 @@ Költészetének **jellemző stílusjegyei:**
 - nagy kezdőbetűs **fogalmi szimbólumok**
 - **szabálytalan verselés**
 
-Életének két legmeghatározóbb múzsája Diósy Ödönné Brüll Adél, Léda és Boncza Berta, versei Csinszkája. A két szeretett nőhöz írt versei azonban lényegesen különböznek egymástól. A továbbiakban Ady Léda-veseinek és Csinszka-verseinek összehasonlítására vállalkozom.
+Életének két legmeghatározóbb múzsája Diósy Ödönné Brüll Adél, Léda és Boncza Berta, versei Csinszkája. A két szeretett nőhöz írt versei azonban lényegesen különböznek egymástól. A továbbiakban Ady Léda-verseinek és Csinszka-verseinek összehasonlítására vállalkozom.
 
 ---
 
@@ -34,7 +34,7 @@ Költészetének **jellemző stílusjegyei:**
 
 ### a) Újszerűségük, általános jellemzésük
 
-A Léda-versek _Léda asszony zsoltárai_ címmel jelentek meg az _Új versek_ c. kötetben. Ady szakított a 19. sz-i magyar szerelmi líra idealizáló nő- és szerelemképével, lázadt annak kötöttségei ellen. Ezt a költészetet erotikamentesség, szeméremesség jellemezte, Ady viszont a szerelem teljességét akarta a költészet tárgyává tenni.  Ő már az érzéki vágyat, az erotikumot is beemeli lírájába. Lédával való kapcsolata diszharmonikus, konfliktusokkal teli viszony. Hiányzik belőle az összhang, az idill. Szerelmük mottója lehetne Ady egyik versének címe: _Örök harc és nász_. Férfi és nő kapcsolatának lényege itt a küzdelem: egymásért és egymás ellen. A szerelemben is érvényesül az önzésről, a birtoklási vágy.
+A Léda-versek _Léda asszony zsoltárai_ címmel jelentek meg az _Új versek_ c. kötetben. Ady szakított a 19. sz-i magyar szerelmi líra idealizáló nő- és szerelemképével, lázadt annak kötöttségei ellen. Ezt a költészetet erotikamentesség, szemérmesség jellemezte, Ady viszont a szerelem teljességét akarta a költészet tárgyává tenni.  Ő már az érzéki vágyat, az erotikumot is beemeli lírájába. Lédával való kapcsolata diszharmonikus, konfliktusokkal teli viszony. Hiányzik belőle az összhang, az idill. Szerelmük mottója lehetne Ady egyik versének címe: _Örök harc és nász_. Férfi és nő kapcsolatának lényege itt a küzdelem: egymásért és egymás ellen. A szerelemben is érvényesül az önzésről, a birtoklási vágy.
 Jellemző a Léda-versekre az érzelmi ambivalencia: a végletes érzelmek egyidejű átélése. A rajongás és a gyűlölet egyszerre jelenik meg, akár egy versben is. Ennek a szerelemfelfogásnak ókori gyökerei vannak: Catullus: _Odi et amo_ (_Gyűlölök és szeretek_). Ez figyelhető meg Baudelaire-nél, a magyar költészetben pedig Vajdánál. Ady verseiben a szerelem egyrészt az élet beteljesülése, a létezés teljességének mámoros, eksztatikus átélése, másrészt mindig összekapcsolódik a halál motívumával.
 _Az én menyasszonyom_; _Örök harc és nász_; _Meg akarlak tartani_
 
