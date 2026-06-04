@@ -1,0 +1,202 @@
+{
+  "main": {
+    "id": "ca10e7fe0d85cd02",
+    "type": "split",
+    "children": [
+      {
+        "id": "baae9d2ce8e1ca41",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "1ee3b1dcc4f8788b",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Neuer Tab"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "4e870ca8a5fdaab6",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "842e4c47f57991ac",
+        "type": "leaf",
+        "state": {
+          "type": "file-explorer",
+          "state": {
+            "sortOrder": "alphabetical",
+            "autoReveal": false
+          },
+          "icon": "lucide-folder-closed",
+          "title": "Dateiexplorer"
+        }
+      },
+      {
+        "id": "bbc82087e1d9a437",
+        "type": "leaf",
+        "state": {
+          "type": "search",
+          "state": {
+            "query": "",
+            "matchingCase": true,
+            "explainSearch": false,
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical"
+          },
+          "icon": "lucide-search",
+          "title": "Search"
+        }
+      },
+      {
+        "id": "6c5696b50ba6e45d",
+        "type": "leaf",
+        "state": {
+          "type": "tag",
+          "state": {
+            "sortOrder": "frequency",
+            "useHierarchy": true,
+            "showSearch": false,
+            "searchQuery": ""
+          },
+          "icon": "lucide-tags",
+          "title": "Tags"
+        }
+      },
+      {
+        "id": "bcc8f54293127bdf",
+        "type": "leaf",
+        "state": {
+          "type": "bookmarks",
+          "state": {},
+          "icon": "lucide-bookmark",
+          "title": "Bookmarks"
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "right": {
+    "id": "8227ac20644b0379",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "c8631c0adf1cf08a",
+        "type": "leaf",
+        "state": {
+          "type": "backlink",
+          "state": {
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical",
+            "showSearch": false,
+            "searchQuery": "",
+            "backlinkCollapsed": false,
+            "unlinkedCollapsed": true
+          },
+          "icon": "links-coming-in",
+          "title": "Rückverweise"
+        }
+      },
+      {
+        "id": "fe998eacc06d595d",
+        "type": "leaf",
+        "state": {
+          "type": "outgoing-link",
+          "state": {
+            "linksCollapsed": false,
+            "unlinkedCollapsed": true
+          },
+          "icon": "links-going-out",
+          "title": "Outgoing links"
+        }
+      },
+      {
+        "id": "41c9f49dcadfaf18",
+        "type": "leaf",
+        "state": {
+          "type": "outline",
+          "state": {
+            "followCursor": false,
+            "showSearch": false,
+            "searchQuery": ""
+          },
+          "icon": "lucide-list",
+          "title": "Outline"
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Schnellauswahl öffnen": false,
+      "graph:Graph-Ansicht öffnen": false,
+      "canvas:Neuen Canvas erstellen": false,
+      "daily-notes:Heutige Notiz öffnen": false,
+      "templates:Vorlage einfügen": false,
+      "command-palette:Befehlspalette öffnen": false,
+      "bases:Neue Base erstellen": false,
+      "obsidian-git:Open Git source control": false,
+      "templater-obsidian:Templater": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "obsidian-excalidraw-plugin:New drawing": false
+    }
+  },
+  "active": "1ee3b1dcc4f8788b",
+  "lastOpenFiles": [
+    "Excalidraw/millican.md",
+    "Matematika/Emelt szintű érettségi témakörök/13. Háromszögek nevezetes vonalai, pontjai és körei.pdf",
+    "Fizika/Feladatok/11. AZ ATOMMODELLEK/Tankönyv.md",
+    "Fizika/Feladatok/10. ATOMFIZIKA/Tankönyv.md",
+    "Fizika/Feladatok/10. ATOMFIZIKA/_img/TK.242.24.png",
+    "Fizika/Feladatok/10. ATOMFIZIKA/_img",
+    "Excalidraw",
+    "/Fizika/Feladatok/11. AZ ATOMMODELLEK/Tankönyv.md",
+    "/Fizika/Feladatok/11. AZ ATOMMODELLEK",
+    "/Fizika/Feladatok/10. ATOMFIZIKA/_img/TK.242.24.png",
+    "/Fizika/Feladatok/10. ATOMFIZIKA/Tankönyv.md",
+    "/Excalidraw/millican.md",
+    "/Fizika/Feladatok/10. ATOMFIZIKA/_img",
+    "/Fizika/Feladatok/10. ATOMFIZIKA",
+    "Fizika/Feladatok/10. ATOMFIZIKA",
+    "/Fizika/Feladatok",
+    "/Fizika",
+    "/Excalidraw",
+    "Fizika/Feladatok/11. AZ ATOMMODELLEK/Feladatgyűjtemény.md",
+    "/Fizika/Feladatok/11. AZ ATOMMODELLEK/Feladatgyűjtemény.md",
+    "Fizika/Feladatok/11. AZ ATOMMODELLEK/_img/TK.265.4.png",
+    "Fizika/Feladatok/11. AZ ATOMMODELLEK/_img/TK.265.3.png",
+    "Fizika/Feladatok/11. AZ ATOMMODELLEK/_img/TK.266.4.png",
+    "Fizika/Hullámok/_img/longitudinalis_sikhullam.gif",
+    "Fizika/Hullámok/_img/transzverzalis_sikhullam.gif",
+    "Fizika/Hullámok/04. Polarizáció.md",
+    "Fizika/Hullámok/02. Hullámok visszaverődése.md",
+    "Fizika/Hullámok/06. Fényelhajlás.md",
+    "Fizika/Hullámok/03. Hullámok törése.md",
+    "Fizika/Hullámok/07. Doppler-effektus.md",
+    "Fizika/Hullámok/01. Hullámok.md",
+    "Fizika/Hullámok/05. Interferencia.md",
+    "/Fizika/Hullámok/_img/transzverzalis_sikhullam.gif",
+    "/Fizika/Hullámok/_img/longitudinalis_sikhullam.gif",
+    "/Fizika/Hullámok/07. Doppler-effektus.md",
+    "/Fizika/Hullámok/06. Fényelhajlás.md",
+    "/Fizika/Hullámok/05. Interferencia.md",
+    "/Fizika/Hullámok/04. Polarizáció.md",
+    "/Fizika/Hullámok/03. Hullámok törése.md",
+    "/Fizika/Hullámok/02. Hullámok visszaverődése.md",
+    "/Fizika/Hullámok/01. Hullámok.md",
+    "/Fizika/Feladatok/11. AZ ATOMMODELLEK/_img/TK.266.4.png",
+    "Dbufnruf.md",
+    "KRESZ/2. Rend az utakon/2.2. Jelzőlámpák.md",
+    "KRESZ/3. Közlekedési helyzetek és azok résztvevői/3.2. Az előzés.md"
+  ]
+}
