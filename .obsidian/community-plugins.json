@@ -2,10 +2,11 @@
   "obsidian-git",
   "obsidian-style-settings",
   "templater-obsidian",
-  "obsidian-completr",
   "code-styler",
   "obsidian-desmos",
   "table-editor-obsidian",
   "obsidian-icon-folder",
-  "obsidian-excalidraw-plugin"
+  "obsidian-excalidraw-plugin",
+  "obsidian-latex-suite",
+  "editing-toolbar"
 ]
