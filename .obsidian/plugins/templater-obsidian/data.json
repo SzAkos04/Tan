@@ -1,6 +1,6 @@
 {
   "command_timeout": 5,
-  "templates_folder": "_templates",
+  "templates_folder": "_Vorlage",
   "templates_pairs": [
     [
       "",
@@ -30,5 +30,10 @@
   "syntax_highlighting_mobile": false,
   "enabled_templates_hotkeys": [],
   "startup_templates": [],
-  "intellisense_render": 1
+  "intellisense_render": 1,
+  "ignore_folders_on_creation": [
+    {
+      "folder": ""
+    }
+  ]
 }
