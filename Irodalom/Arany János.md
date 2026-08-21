@@ -1,6 +1,13 @@
 ---
-~
+Téma: Arany János
+Tantárgy: Irodalom
+Kategória: Tétel
+tags:
+  - Erettsegi
+  - Irodalom
 ---
+# Arany János
+
 ## I. Élete (1817-1882) és pályája
 
 **1817-ben született Nagyszalontán.** Arany György és Megyeri Sára legkisebb gyermeke volt. A 10 testvér közül csupán ketten érték meg a felnőttkort: Arany János és jóval idősebb nővére. Szegénységük miatt Arany csak úgy tanulhatott, ha állást is vállalt, így már **14 éves korában segédtanító lett.** Ezután került a **debreceni református kollégiumba,** majd **Kisújszálláson tanítóskodott.** **Rövid időre vándorszínésznek** állt, de **Máramarosszigeten** rémisztő álmot látott: édesanyja meghalt. Emiatt azonnal hazatért, és álma valóban beigazolódott. Távolléte alatt apja megvakult, anyja néhány héttel később meghalt. **Szalontán** telepedett le, **másodjegyzői állást vállalt, s feleségül vette Ercsey Juliannát.**

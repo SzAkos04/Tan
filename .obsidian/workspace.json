@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_Vorlage/Tétel Vorlage.md",
-                "mode": "source",
+                "file": "Irodalom/Arany János.md",
+                "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Tétel Vorlage"
+              "title": "Arany János"
             }
           }
         ]
@@ -194,17 +194,23 @@
   },
   "active": "0183b9417b614e5c",
   "lastOpenFiles": [
-    "aosetuh.md",
-    "_Vorlage/Tétel Vorlage.md",
-    "Történelem/Történelem MOC.md",
-    "_Vorlage",
     "Irodalom/Irodalom MOC.md",
+    "Irodalom/Ady Endre szerelmi lírája.md",
+    "_sablonok/Tantárgy MOC Sablon.md",
+    "_sablonok/Érettségi Tétel Sablon.md",
+    "Történelem/Történelem MOC.md",
+    "Történelem/Kiegyezés.md",
+    "Irodalom/Arany János.md",
+    "00_Dashboard.md",
+    "_sablonok/Untitled.md",
+    "_Vorlage/Tétel Vorlage.md",
+    "aosetuh.md",
+    "_sablonok",
     "_templates/Történelem.md",
     "_templates/Matematika.md",
     "_templates/Kresz.md",
     "_templates/Fizika.md",
     "_templates/Angol.md",
-    "00_Dashboard.md",
     "Fizika/Rezgőmozgás/03. Matematikai inga rezgésideje.md",
     "Fizika/Rezgőmozgás/01. Harmonikus rezgőmozgás kinematikai leírása.md",
     "Fizika/Hullámok/07. Doppler-effektus.md",
@@ -215,15 +221,9 @@
     "Fizika/Hullámok/02. Hullámok visszaverődése.md",
     "Fizika/Hullámok/01. Hullámok.md",
     "Fizika/Gázok/03. Gázrészecskék sebessége.md",
-    "Irodalom/Ady Endre szerelmi lírája.md",
-    "conflict-files-obsidian-git.md",
     "Fizika/Feladatok/10. ATOMFIZIKA/_img/TK.242.24.png",
     "Fizika/Feladatok/10. ATOMFIZIKA/_img",
-    "Fizika/Feladatok/10. ATOMFIZIKA/Tankönyv.md",
     "Fizika/Feladatok/10. ATOMFIZIKA",
-    "Fizika/Feladatok/11. AZ ATOMMODELLEK/Tankönyv.md",
-    "Történelem/Kiegyezés.md",
-    "Matematika/Emelt szintű érettségi témakörök/01.md",
     "Matematika/Emelt szintű érettségi témakörök/25. Bizonyítási módszerek és bemutatásuk tételek bizonyításában.pdf",
     "Matematika/Emelt szintű érettségi témakörök/24. Permutációk, variációk. A binomiális eloszlás. A valószínűség kiszámításának geometriai modellje.pdf",
     "Matematika/Emelt szintű érettségi témakörök/23. Kombinációk. Binomiális tétel, a Pascal-háromszög. A valószínűség kiszámításának kombinatorikus modellje. A hipergeometrikus eloszlás.pdf",

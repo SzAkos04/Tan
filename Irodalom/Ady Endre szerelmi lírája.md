@@ -1,3 +1,11 @@
+---
+Téma: Ady Endre szerelmi lírája
+Tantárgy: Irodalom
+Kategória: Tétel
+tags:
+  - Erettsegi
+  - Irodalom
+---
 # Ady Endre szerelmi lírája
 
 ## Bevezetés

@@ -1,6 +1,10 @@
 ---
+Téma: Kiegyezés
+Tantárgy: Történelem
+Kategória: Tétel
 tags:
-  - Történelem
+  - Erettsegi
+  - Tortenelem
 ---
 
 # Kiegyezés
