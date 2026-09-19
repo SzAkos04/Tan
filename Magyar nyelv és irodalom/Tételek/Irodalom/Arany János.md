@@ -1,7 +1,7 @@
 ---
 tipus: tetel
-tantargy: Irodalom
-temakor: 19. század
+tantargy: Magyar nyelv és irodalom
+temakor: 19\. század
 allapot: kidolgozva
 ---
 # Arany János

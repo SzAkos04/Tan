@@ -1,15 +1,10 @@
-<%*
-const tantargy = tp.file.title.replace(/ MOC$/, "");
-const tanar = await tp.system.prompt("Tanár neve:", "", true);
-const szint = await tp.system.suggester(["Közép", "Emelt"], ["Közép", "Emelt"], true, "Érettségi szint");
--%>
 ---
 tipus: moc
-tantargy: <% tantargy %>
-tanar: <% tanar %>
-szint: <% szint %>
+tantargy: Matematika
+tanar: Schuch Angéla
+szint: Emelt
 ---
-# <% tp.file.title %>
+# Matematika MOC
 
 Tanár: `=this.tanar` | Szint: `=this.szint`
 
@@ -47,4 +42,5 @@ if (pdfek.length === 0) {
 
 ## Kapcsolódó
 
+- [[Tudnivalók a vizsgázók számára.pdf]]
 - [[README]]

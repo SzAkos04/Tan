@@ -1,6 +1,6 @@
 ---
 tipus: tetel
-tantargy: Irodalom
+tantargy: Magyar nyelv és irodalom
 temakor: Nyugat
 allapot: kidolgozva
 ---

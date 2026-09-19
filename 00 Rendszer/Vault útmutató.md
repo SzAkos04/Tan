@@ -7,33 +7,37 @@ Ez a jegyzet a vault szabályait rögzíti. Ember és LLM is ebből dolgozik. Ha
 
 ## Cél
 
-Érettségi tételek egy helyen, egységes szerkezetben. Egy LLM bármikor ki tudja bővíteni vagy javítani őket, és a Dashboardról mindig látszik, mi kész és mi nem.
+Érettségi tételek egy helyen, egységes szerkezetben. Egy LLM bármikor ki tudja bővíteni vagy javítani őket, és a README-ről mindig látszik, mi kész és mi nem.
 
 ## Mappák
 
 ```
 Tan/
-  Dashboard.md
+  README.md.             Dashboardként funkcionál
   00 Rendszer/
     Vault útmutató.md
     Sablonok/            Templater sablonok
   <Tantárgy>/
     <Tantárgy> MOC.md
-    Tételek/             ide kerülnek a tételek
+    Tételek/             ide kerülnek a tételek jegyzetei és a PDF-ek
 ```
 
-Beállítás: Templater, Template folder location = `00 Rendszer/Sablonok`. Dataview, Enable Inline Queries = be.
+Beállítás: Templater, Template folder location = `00 Rendszer/Sablonok`. Dataview, Enable Inline Queries = be, Enable JavaScript Queries = be (a MOC-ok PDF listája ezt használja).
+
+## PDF-ek
+
+A tantárgy `Tételek` mappájába (almappába is) tett PDF-eket a MOC `PDF-ek` szakasza automatikusan listázza. A Dataview a PDF-eket nem indexeli, ezért a lista fájlnév alapján működik: ha a PDF neve megegyezik egy tétel jegyzet nevével (pl. `Arany János.pdf` és `Arany János.md`), a Jegyzet oszlopban a link jelenik meg, egyébként `nincs`. A `nincs` sorok a feldolgozásra váró PDF-ek. Új PDF után előfordulhat, hogy a MOC-ot újra kell nyitni, hogy a lista frissüljön.
 
 ## Jegyzettípusok
 
 Minden jegyzet frontmatterében van `tipus`. A Dataview listák erre szűrnek, címkére nincs szükség.
 
-| tipus | Mi ez | Hol van |
-|---|---|---|
-| tetel | Egy érettségi tétel | `<Tantárgy>/Tételek/` |
-| moc | Egy tantárgy tartalomjegyzéke | `<Tantárgy>/<Tantárgy> MOC.md` |
-| dashboard | A teljes vault áttekintője | gyökér |
-| rendszer | Szabályok | `00 Rendszer/` |
+| tipus     | Mi ez                         | Hol van                        |
+| --------- | ----------------------------- | ------------------------------ |
+| tetel     | Egy érettségi tétel           | `<Tantárgy>/Tételek/`          |
+| moc       | Egy tantárgy tartalomjegyzéke | `<Tantárgy>/<Tantárgy> MOC.md` |
+| dashboard | A teljes vault áttekintője    | `README.md`                    |
+| rendszer  | Szabályok                     | `00 Rendszer/`                 |
 
 ## Frontmatter mezők
 
@@ -80,13 +84,13 @@ Ami hiányzik vagy ellenőrizendő, azt a jegyzet `## Nyitott pontok` szakaszáb
 - [ ] ELLENŐRIZNI: mit kell megnézni
 ```
 
-A Dashboard ezeket egy helyen listázza. A pipát (`- [x]`) a felhasználó teszi ki átnézés után, az LLM nem.
+A README ezeket egy helyen listázza. A pipát (`- [x]`) a felhasználó teszi ki átnézés után, az LLM nem.
 
 ## Munkafolyamatok
 
-Új tétel: új jegyzet a `<Tantárgy>/Tételek/` mappában, Tétel sablon, a tanári jegyzet a `## Nyers jegyzet` alá, majd A prompt az LLM-nek. Az eredmény átnézése után `allapot: kesz`.
+Új tétel: új jegyzet a `<Tantárgy>/Tételek/` mappában, Tétel sablon, a tanári jegyzet a `## Nyers jegyzet` alá, majd A prompt az LLM-nek. Ha a forrás PDF, a jegyzetnek ugyanazt a nevet add, mint a PDF-nek, és a `## Nyers jegyzet` alatt hivatkozz rá: `![[Név.pdf]]`. Az eredmény átnézése után `allapot: kesz`.
 
-Meglévő tétel javítása: a Dashboard Nyitott pontok listájából kiválasztod a jegyzetet, majd B prompt.
+Meglévő tétel javítása: a README Nyitott pontok listájából kiválasztod a jegyzetet, majd B prompt.
 
 Új tantárgy: `<Tantárgy> MOC` jegyzet a Tantárgy MOC sablonnal, mellé a `Tételek` mappa.
 

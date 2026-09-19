@@ -1,15 +1,10 @@
-<%*
-const tantargy = tp.file.title.replace(/ MOC$/, "");
-const tanar = await tp.system.prompt("Tanár neve:", "", true);
-const szint = await tp.system.suggester(["Közép", "Emelt"], ["Közép", "Emelt"], true, "Érettségi szint");
--%>
 ---
 tipus: moc
-tantargy: <% tantargy %>
-tanar: <% tanar %>
-szint: <% szint %>
+tantargy: Magyar nyelv és irodalom
+tanar: Kövi Andrea
+szint: Közép
 ---
-# <% tp.file.title %>
+# Magyar nyelv és irodalom MOC
 
 Tanár: `=this.tanar` | Szint: `=this.szint`
 

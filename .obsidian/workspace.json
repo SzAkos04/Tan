@@ -11,10 +11,14 @@
             "id": "08fdc68614d36be4",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "README.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "README"
             }
           }
         ]
@@ -95,6 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,6 +118,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
@@ -155,6 +161,7 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "README.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -163,12 +170,28 @@
               "title": "Outline"
             }
           }
+        ],
+        "currentTab": 4
+      },
+      {
+        "id": "bd9e3cd527d3e008",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "483bc072baf8f453",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
+          }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 436.00390625
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -178,9 +201,32 @@
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "bases:Create new base": false
+      "bases:Create new base": false,
+      "obsidian-git:Open Git source control": false,
+      "templater-obsidian:Templater": false
     }
   },
-  "active": "08fdc68614d36be4",
-  "lastOpenFiles": []
+  "active": "483bc072baf8f453",
+  "lastOpenFiles": [
+    "Magyar nyelv és irodalom/Tételek/Irodalom/Arany János.md",
+    "README.md",
+    "Magyar nyelv és irodalom/Magyar nyelv és irodalom MOC.md",
+    "Magyar nyelv és irodalom/Tételek/Irodalom/Ady Endre szerelmi lírája.md",
+    "Magyar nyelv és irodalom/Tételek/Irodalom",
+    "00 Rendszer/Sablonok/Tantárgy MOC sablon.md",
+    "00 Rendszer/Vault útmutató.md",
+    "Nyelvtan/Nyelvtan MOC.md",
+    "Irodalom/Irodalom MOC.md",
+    "Matematika/Matematika MOC.md",
+    "Matematika/Tudnivalók a vizsgázók számára.pdf",
+    "00 Rendszer/Sablonok/Tétel sablon.md",
+    "Nyelvtan/Tételek",
+    "Nyelvtan",
+    "Matematika/Tételek/01.pdf",
+    "Matematika/00.pdf",
+    "Matematika/Tételek/11.pdf",
+    "Matematika/Tételek/03.pdf",
+    "Matematika/Tételek/22.pdf",
+    "Matematika/Tételek/20.pdf"
+  ]
 }
