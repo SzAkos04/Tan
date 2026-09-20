@@ -275,7 +275,7 @@ Arany az 1867 utáni Magyarországot idegen és közönyös világnak látta. Ez
 
 ## Kapcsolódó
 
-- [[Irodalom MOC]]
+- [[Magyar nyelv és irodalom MOC]]
 
 ## Nyitott pontok
 

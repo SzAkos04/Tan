@@ -79,7 +79,7 @@ A vers beszédhelyzete: a lírai én könyörög a becézve megszólított társ
 
 ## Kapcsolódó
 
-- [[Irodalom MOC]]
+- [[Magyar nyelv és irodalom MOC]]
 
 ## Nyitott pontok
 
