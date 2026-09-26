@@ -4,53 +4,24 @@
     "type": "split",
     "children": [
       {
-        "id": "19eb67762137a743",
+        "id": "72a30b98d44058d6",
         "type": "tabs",
         "children": [
           {
-            "id": "08fdc68614d36be4",
+            "id": "ed82243613388431",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Matematika/Matematika MOC.md",
-                "mode": "source",
+                "file": "Magyar nyelv és irodalom/Tételek/Nyelvtan/Az írott és internetes szövegek összehasonlítása.md",
+                "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Matematika MOC"
-            }
-          },
-          {
-            "id": "b1fddd41dd69c8ba",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Magyar nyelv és irodalom/Magyar nyelv és irodalom MOC.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Magyar nyelv és irodalom MOC"
-            }
-          },
-          {
-            "id": "3de9028df54cfce3",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Magyar nyelv és irodalom/Tételek/Irodalom/Ady Endre szerelmi lírája.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Ady Endre szerelmi lírája"
+              "title": "Az írott és internetes szövegek összehasonlítása"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -190,7 +161,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Magyar nyelv és irodalom/Magyar nyelv és irodalom MOC.md",
+                "file": "Magyar nyelv és irodalom/Tételek/Nyelvtan/Az írott és internetes szövegek összehasonlítása.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -235,26 +206,26 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "b1fddd41dd69c8ba",
+  "active": "ed82243613388431",
   "lastOpenFiles": [
-    "Magyar nyelv és irodalom/Tételek/Nyelvtan/Az írott és internetes szövegek összehasonlítása.md",
-    "Magyar nyelv és irodalom/Tételek/Irodalom/Ady Endre szerelmi lírája.md",
-    "Magyar nyelv és irodalom/Tételek/Irodalom/Arany János.md",
-    "Német/Tételek/01.01 Meine Familie und ich.md",
-    "Magyar nyelv és irodalom/Tételek/Nyelvtan",
     "Matematika/Matematika MOC.md",
-    "00 Rendszer/Sablonok/Tétel sablon.md",
-    "Német/Német MOC.md",
-    "Német/Tételek",
+    "Magyar nyelv és irodalom/Tételek/Irodalom/Ady Endre szerelmi lírája.md",
     "README.md",
-    "Német",
+    "Német/Német MOC.md",
+    "Német/Tételek/01.01 Meine Familie und ich.md",
+    "Matematika/Tudnivalók a vizsgázók számára.pdf",
     "Magyar nyelv és irodalom/Magyar nyelv és irodalom MOC.md",
+    "Magyar nyelv és irodalom/Tételek/Nyelvtan/Az írott és internetes szövegek összehasonlítása.md",
+    "Magyar nyelv és irodalom/Tételek/Irodalom/Arany János.md",
+    "Magyar nyelv és irodalom/Tételek/Nyelvtan",
+    "00 Rendszer/Sablonok/Tétel sablon.md",
+    "Német/Tételek",
+    "Német",
     "Magyar nyelv és irodalom/Tételek/Irodalom",
     "00 Rendszer/Sablonok/Tantárgy MOC sablon.md",
     "00 Rendszer/Vault útmutató.md",
     "Nyelvtan/Nyelvtan MOC.md",
     "Irodalom/Irodalom MOC.md",
-    "Matematika/Tudnivalók a vizsgázók számára.pdf",
     "Nyelvtan/Tételek",
     "Nyelvtan",
     "Matematika/Tételek/01.pdf",
