@@ -10,10 +10,23 @@ Tanár: `=this.tanar` | Szint: `=this.szint`
 
 ## Tételek
 
+### Irodalom tételek
+
 ```dataview
 TABLE temakor AS "Témakör", allapot AS "Állapot"
 FROM -"00 Rendszer"
-WHERE tipus = "tetel" AND tantargy = this.tantargy
+WHERE tipus = "tetel" AND contains(file.folder, "Irodalom")
+SORT temakor ASC, file.name ASC
+```
+
+---
+
+### Nyelvtan tételek
+
+```dataview
+TABLE temakor AS "Témakör", allapot AS "Állapot"
+FROM -"00 Rendszer"
+WHERE tipus = "tetel" AND contains(file.folder, "Nyelvtan")
 SORT temakor ASC, file.name ASC
 ```
 
